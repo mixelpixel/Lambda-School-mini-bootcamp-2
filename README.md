@@ -14,7 +14,8 @@ Slack channel: https://lambdaschool.slack.com
 [Completed homework 02](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/2homework)  
 ![screen](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/2homework/second-layout.png)  
 
-[Completed homework 03]()  
+[Completed homework 03](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/3homework)  
+![screen](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/3homework/third-layout.png)  
 
 # Lesson 2 - INTRO TO JAVASCRIPT
 "An in-depth introduction to the language of the web."  
