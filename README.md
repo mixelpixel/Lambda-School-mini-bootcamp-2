@@ -9,10 +9,11 @@ Slack channel: https://lambdaschool.slack.com
 1. [Mini Bootcamp Lesson 1: HTML & CSS - Free Mini Code Bootcamp by LambdaSchool](https://youtu.be/nLs9I8MRbO0)  
 2. [Homework assignment](https://github.com/SunJieMing/LS-Web-Intro-I)  
 [Completed homework 01](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/1homework)  
-
 ![screen](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/1homework/first-layout-text.png)  
 
-[Completed homework 02]()  
+[Completed homework 02](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/2homework)  
+![screen](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/1homework/second-layout.png)  
+
 [Completed homework 03]()  
 
 # Lesson 2 - INTRO TO JAVASCRIPT
