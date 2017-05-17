@@ -10,13 +10,14 @@ Slack channel: https://lambdaschool.slack.com
 
 2. [Homework assignment](https://github.com/SunJieMing/LS-Web-Intro-I): Replicate the images in HTML and CSS code.  
 
-<ul><li>[Completed homework 01](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/1homework)  
-<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/1homework/first-layout.png"></details></li>
-<li>[Completed homework 02](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/2homework)  
-<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/2homework/second-layout.png"></details></li>
-<li>[Completed homework 03](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/3homework)  
-<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/3homework/third-layout.png"></details></li>
-</ul>
+• [Completed homework 01](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/1homework)  
+<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/1homework/first-layout.png"></details>  
+
+• [Completed homework 02](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/2homework)  
+<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/2homework/second-layout.png"></details>  
+
+• [Completed homework 03](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/3homework)  
+<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/3homework/third-layout.png"></details>  
 
 # Lesson 2 - INTRO TO JAVASCRIPT
 "An in-depth introduction to the language of the web."  
