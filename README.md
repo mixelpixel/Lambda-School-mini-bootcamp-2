@@ -12,7 +12,7 @@ Slack channel: https://lambdaschool.slack.com
 ![screen](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/1homework/first-layout-text.png)  
 
 [Completed homework 02](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/2homework)  
-![screen](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/1homework/second-layout.png)  
+![screen](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/2homework/second-layout.png)  
 
 [Completed homework 03]()  
 
