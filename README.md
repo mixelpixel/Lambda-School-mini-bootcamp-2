@@ -10,7 +10,7 @@ Monday, May 15, 2017, Lecture:
 [Homework assignment](https://github.com/SunJieMing/LS-Web-Intro-I)  
 [Completed homework 01](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/1homework)  
 
-![screen](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/1homework/first-layout.png)  
+![screen](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/1homework/first-layout-text.png)  
 
 [Completed homework 02]()  
 [Completed homework 03]()  
