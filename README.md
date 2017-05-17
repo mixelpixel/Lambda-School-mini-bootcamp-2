@@ -11,6 +11,9 @@ Monday, May 15, 2017, Lecture:
 [Completed homework 01](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/1homework)  
 <details><summary>first layout screen capture</summary>![screen](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/1homework/first-layout.png)</details>  
 
+
+![screen](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/1homework/first-layout.png)  
+
 [Completed homework 02]()  
 [Completed homework 03]()  
 
