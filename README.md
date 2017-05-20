@@ -14,9 +14,10 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
   - [Completed homework 03](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/3homework) <details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/3homework/third_layout.png"></details>
 
 ## Friday, May 19, 2017, Lecture:  
-1. Mini Bootcamp Lesson 2: [Responsive Web Design - Free Mini Code Bootcamp](https://youtu.be/oXziWoSD8vQ)
+1. Mini Bootcamp Lesson 2: [Responsive Web Design](https://youtu.be/oXziWoSD8vQ)
 
-2. Homework assignment: []()
+2. Homework assignment: [Replicate this web page](http://blackrockdigital.github.io/startbootstrap-clean-blog/post.html)
+  - [Completed homework](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson2/)
 
 # Week 2 - INTRO TO JAVASCRIPT
 "An in-depth introduction to the language of the web."  
