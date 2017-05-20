@@ -1,7 +1,7 @@
 # Lambda-School-mini-bootcamp-2
-Start date: May 15, 2017  
-https://lambdaschool.com/mini-bootcamp/  
+Start date: May 15, 2017: https://lambdaschool.com/mini-bootcamp/  
 Slack channel: https://lambdaschool.slack.com  
+Lesson archive: https://lambdaschool.com/mini-bootcamp/archive  
 
 # Week 1 - TEXT EDITORS, HTML AND CSS
 "The basics of code, how it works on the web, and what websites are made of."  
@@ -13,8 +13,8 @@ Slack channel: https://lambdaschool.slack.com
   - [Completed homework 02](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/2homework) <details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/2homework/second_layout.png"></details>
   - [Completed homework 03](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/3homework) <details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/3homework/third_layout.png"></details>
 
-## Monday, May 15, 2017, Lecture:  
-1. Mini Bootcamp Lesson 2: []()
+## Friday, May 19, 2017, Lecture:  
+1. Mini Bootcamp Lesson 2: [Responsive Web Design - Free Mini Code Bootcamp](https://youtu.be/oXziWoSD8vQ)
 
 2. Homework assignment: []()
 
