@@ -68,6 +68,10 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       </li>
       <li>convention is to put .css in the same directory as the .html, but it can be put in any directory so long as the "link href="" points to its location</li>
       <li>per <a href="https://www.w3schools.com/tags/tag_link.asp">w3schools.com: CSS link syntax</a>
+      <li>
+        HTML "super power": use the browser element inspector to see how web pages are constructed with html and css!<br>
+        e.g. to find a hexadecimal color code (e.g. #4CAF50)
+      </li>
 
 
 
