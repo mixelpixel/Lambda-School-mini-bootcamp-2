@@ -66,6 +66,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
         &lt;html&gt; &lt;head&gt; &lt;title&gt;Browser Tab Text&lt;/title&gt; <b>&lt;link to CSS file&gt;</b> &lt;/head&gt; &lt;body&gt; &lt;/body&gt; &lt;/html&gt;<br>
         e.g. &lt;link rel="stylesheet" type="text/css" <b>href="homework.css"</b>&gt;
       </li>
+      <li>convention is to put .css in the same directory as the .html, but it can be put in any directory so long as the "link href="" points to its location</li>
       <li>per <a href="https://www.w3schools.com/tags/tag_link.asp">w3schools.com: CSS link syntax</a>
 
 
