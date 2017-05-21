@@ -78,25 +78,27 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
         e.g. to find a hexadecimal color code (e.g. #4CAF50)
       </li>
       <li>
-        basic CSS syntax:<br>
+        Basic CSS syntax:<br>
         <b>tag_type {<br>
         &nbsp;&nbsp;&nbsp;&nbsp;declaration: specification;<br>
         &nbsp;&nbsp;&nbsp;&nbsp;...<br>
         }</b><br>
+      </li>
+      <li>CSS syntax:<ul>
+        <li>classes are prepended with a period, i.e. <b>.class_name{...}</b> e.g.,<br>
+        <b>.some_class_name{...}</b> in the CSS file, and,<br>
+        <b>&lt;html_tag class="some_class_name"&gt;...&lt;/html_tag&gt;</b> in the HTML file.</li>
+        <li>id's are prepended with a has, i.e. <b>#id_name{...}</b> e.g.
+        <b>#some_id_name{...}</b> in the CSS file, and,<br>
+        <b>&lt;html_tag id="some_id_name"&gt;...&lt;/html_tag&gt;</b> in the HTML file.</ul>
       </li>
       <li>
       CSS order of precedence: most exact vs top to bottom cascade (vs importance)<ol>
         <li>Importance</li>
         <li>Specificity</li>
         <li>Source Order</li></ol>
-      For more info, per <a href="https://www.w3.org/wiki/Inheritance_and_cascade">w3.org: "Inheritance and Cascade"</a>
-      <li>CSS syntax:<ul>
-        <li>classes are prepended with a period, i.e. <b>.class_name{...}</b> e.g.,<br>
-        <b>.some_class_name{...}</b> in the CSS file, and,<br>
-        <b>&lt;html_tag class="some_class_name"&gt;...&lt;/html_tag&gt;</b> in the HTML file.</li>
-        <li>id's are prepended with a has, i.e. <b>#id_name{...}</b> e.g.</ul>
-        <b>#some_id_name{...}</b> in the CSS file, and,<br>
-        <b>&lt;html_tag id="some_id_name"&gt;...&lt;/html_tag&gt;</b> in the HTML file.</li>
+      For more info, per <a href="https://www.w3.org/wiki/Inheritance_and_cascade">w3.org: "Inheritance and Cascade"</a></li>
+
 
       <li>CSS comments are between forward slash and star: /&#42; <i>comments go here</i> &#42;/ and they can span multiple lines as well.</li>
 
