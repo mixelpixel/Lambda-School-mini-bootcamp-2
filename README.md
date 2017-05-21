@@ -20,9 +20,10 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       <li>
         Declaring the type of document: &lt;!DOCTYPE html&gt;<br>
         html = Hyper-Text Markup Language<br>
-        HTML consists of opening &lt; &gt; and closing &lt;/ &gt; tags<br>
-        Whatever is inside the tags belongs to that tag area.<br>
-        "nesting" tags inside each other per sections, containers, divisions, etc.
+        HTML consists of matching &lt;tag_type&gt; openings and &lt;/tag_type&gt; closings.<br>
+        Whatever is inside the open/close tag set belongs to that tag area.<br>
+        E.g. &lt;tag_type&gt; tag_area &lt;/tag_type&gt;<br>
+        HTML involves "nesting" tags inside each other per sections, containers, divisions, etc.
       </li>
       <li>
         &lt;html lang="en"&gt;...&lt;/html&gt;<br>
