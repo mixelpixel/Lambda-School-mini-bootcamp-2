@@ -91,10 +91,12 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
         <li>Source Order</li></ol>
       For more info, per <a href="https://www.w3.org/wiki/Inheritance_and_cascade">w3.org: "Inheritance and Cascade"</a>
       <li>CSS syntax:<ul>
-        <li>classes are prepended with a period, e.g. <b>.class_name {...}</b>E.g.,<br>
-        <b>.some_name{...}</b> in the CSS file, and,<br>
-        <b>&lt;html_tag class="some_name"&gt;...&lt;/html_tag&gt;</b> in the HTML file.</li>
-        <li>id's are prepended with a has, e.g. <b>#id_name {...}</b></li></ul>
+        <li>classes are prepended with a period, i.e. <b>.class_name{...}</b> e.g.,<br>
+        <b>.some_class_name{...}</b> in the CSS file, and,<br>
+        <b>&lt;html_tag class="some_class_name"&gt;...&lt;/html_tag&gt;</b> in the HTML file.</li>
+        <li>id's are prepended with a has, i.e. <b>#id_name{...}</b> e.g.</ul>
+        <b>#some_id_name{...}</b> in the CSS file, and,<br>
+        <b>&lt;html_tag id="some_id_name"&gt;...&lt;/html_tag&gt;</b> in the HTML file.</li>
 
       <li>CSS comments are between forward slash and star: /&#42; <i>comments go here</i> &#42;/ and they can span multiple lines as well.</li>
 
