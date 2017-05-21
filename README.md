@@ -13,9 +13,9 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       There's good information in the first twelve minutes, don't skip it.</li>
       <li><a href="https://justinjackson.ca/words.html">Words</a></li>
       <li>
-      Declaring the type of document: \<!DOCTYPE html\>
-      (Hyper-Text Markup Language)
-      \<html lang="en"\> per: <a href="https://www.w3.org/International/questions/qa-html-language-declarations">w3.org, "language declaration"</a>
+      Declaring the type of document: &lt;!DOCTYPE html&gt;
+      http = Hyper-Text Markup Language
+      &lt;html lang="en"&gt; per: <a href="https://www.w3.org/International/questions/qa-html-language-declarations">w3.org, "language declaration"</a>
       "Always use a language attribute on the html element. This is inherited by all other elements, and so will set a default language for the text in the document head element.""
       </li>
       <li><a href="http://stackoverflow.com/a/31032477/5225057">HTML specs, percentage vs. height</a></li>  
