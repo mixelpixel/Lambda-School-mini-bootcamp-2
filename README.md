@@ -7,8 +7,8 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
 "The basics of code, how it works on the web, and what websites are made of."  
 ## Monday, May 15, 2017, Lecture:  
 <details><summary>Click here for notes from lecture 1</summary>  
-  - [HTML specs, percentage vs. height](http://stackoverflow.com/a/31032477/5225057)<br>  
-  - [HTML meta tags](https://www.w3schools.com/tags/tag_meta.asp)<br>  
+  - <a href="http://stackoverflow.com/a/31032477/5225057">HTML specs, percentage vs. height</a><br>  
+  - <a href="https://www.w3schools.com/tags/tag_meta.asp">HTML meta tags</a><br>  
 </details>
 
 1. Mini Bootcamp Lesson 1: [HTML & CSS - Free Mini Code Bootcamp by LambdaSchool](https://youtu.be/nLs9I8MRbO0)  
