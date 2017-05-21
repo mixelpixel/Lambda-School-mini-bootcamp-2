@@ -13,6 +13,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
         <a href="https://youtu.be/nLs9I8MRbO0?t=12m">Lecture 1 starts@ ~12min</a><br>
         There's good information in the first twelve minutes, don't skip it.
       </li>
+
       <h2>HTML</h2>
       <li>
         <a href="https://justinjackson.ca/words.html">Words</a>
@@ -64,6 +65,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       lines<br>
       --&gt;</i>
       </li>
+
       <h2>CSS</h2>
       <li>CSS = Cascading Style Sheet</li>
       <li>
@@ -101,8 +103,9 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
           <li>CLASSes are used to group element</li><ul>
             <li>You can use the same class on multiple elements.</li>
             <li>You can use multiple classes on the same element.</li></ul>
+          </ul>
         More id vs class per <a href="https://css-tricks.com/the-difference-between-id-and-class/">CSS-Tricks.com</a> and <a href="http://stackoverflow.com/q/84378/5225057">stack question/answer</a>
-      </li></ul>
+      </li>
       <li>
       CSS order of precedence: most exact vs top to bottom cascade (vs importance)<ol>
         <li>Importance</li>
