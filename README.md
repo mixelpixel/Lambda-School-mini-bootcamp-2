@@ -53,15 +53,15 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       <li>anchor tags for links, p tags for paragraphs, h# for headers, etc...</li>
       <li>Whitespace is pretty much ignored; however, whitepsaces (and tabs) can make things much more "human-readable"</li>
       <li>html comments are ignored by the html parser:<br>
-      &lt;!-- [comments go here] --&gt;<br>
-      &lt;!--<br>
+      &lt;!-- <i>comments go here<i> --&gt;<br>
+      &lt;!--<br><i>
       comments<br>
       can<br>
       also<br>
       be<br>
       across<br>
       multiple<br>
-      lines<br>
+      lines<br></i>
       --&gt;
       </li>
       <h2>CSS</h2>
@@ -89,7 +89,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       <b>.some_name{...}</b> in the CSS file, and,<br>
       <b>&lt;html_tag class="some_name"&gt;...&lt;/html_tag&gt;</b> in the HTML file.
 
-      <li>CSS comments are between forward slash and star: /&#42; comments go here &#42;/ and they can span multiple lines as well.</li>
+      <li>CSS comments are between forward slash and star: /&#42; <i>comments go here<i> &#42;/ and they can span multiple lines as well.</li>
 
 
 
