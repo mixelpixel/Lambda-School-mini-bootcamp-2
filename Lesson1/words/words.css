@@ -5,3 +5,11 @@ body {
 a {
   color: white;
 }
+
+p {
+  text-decoration: underline;
+}
+
+.tag_type_class {
+  background: pink;
+}
