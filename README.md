@@ -137,6 +137,7 @@ Lambda University: http://www.lambdauniversity.com
     <details><summary>Click here for notes from lecture 2</summary>  
     <a href="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/README.md">Link to Lecture 2 notes: README.md</a>  
     </details>
+    - [Lesson 2 lecture example](https://codepen.io/mixelpix/pen/zwMMVz)
 
 2. Homework assignment: [Replicate this web page](http://blackrockdigital.github.io/startbootstrap-clean-blog/post.html)  
     1. [Completed homework](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson2/)
