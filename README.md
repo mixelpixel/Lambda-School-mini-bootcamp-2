@@ -9,6 +9,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
 
 1. Mini Bootcamp Lesson 1: [HTML & CSS - Free Mini Code Bootcamp by LambdaSchool](https://youtu.be/nLs9I8MRbO0)  
     <details><summary>Click here for notes from lecture 1</summary><ul>  
+      <h2>HTML</h2>
       <li>
         <a href="https://youtu.be/nLs9I8MRbO0?t=12m">Lecture 1 starts@ ~12min</a><br>
         There's good information in the first twelve minutes, don't skip it.
@@ -58,6 +59,13 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       lines<br>
       --&gt;
       </li>
+      <h2>CSS</h2>
+      <li>CSS = Cascading Style Sheet</li>
+      <li>
+        CSS link syntax in the html file (tells the html doc where to find the corresponding css file)
+        &lt;html&gt; &lt;head&gt; &lt;title&gt;Browser Tab Text&lt;/title&gt; <b>&lt;link to CSS file&gt;</b> &lt;/head&gt; &lt;html&gt;
+      </li>
+
 
 
       <li><a href="http://stackoverflow.com/a/31032477/5225057">HTML specs, percentage vs. height</a></li>  
