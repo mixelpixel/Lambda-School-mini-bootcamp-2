@@ -138,7 +138,7 @@ Lambda University: http://www.lambdauniversity.com
   - [Lesson 2 lecture example](https://codepen.io/mixelpix/pen/zwMMVz)
 
 2. Homework assignment: [Replicate this web page](http://blackrockdigital.github.io/startbootstrap-clean-blog/post.html)  
-    1. [Completed homework](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson2/)
+  - [Completed homework](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson2/)
 
 # Week 2 - INTRO TO JAVASCRIPT
 "An in-depth introduction to the language of the web."  
