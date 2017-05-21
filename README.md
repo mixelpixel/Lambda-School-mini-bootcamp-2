@@ -29,9 +29,9 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
         <i>"Always use a language attribute on the html element. This is inherited by all other elements, and so will set a default language for the text in the document head element."</i><br>
       </li>
       <li>Basic html document layout:<br><ol>
-        <li>doc. type,</li>
-        <li>"head" is meta-info mostly for the browser,</li>
-        <li>"body" is the actual body of the page</li></ol>
+        <li>&lt;!DOCTYPE html%gt; - doc. type declaration,</li>
+        <li>&lt;head&gt; &lt;/head&gt; contains meta-info mostly for the browser,</li>
+        <li>&lt;body&gt; &lt;/body&gt;  is the actual body of the page</li></ol>
       <li>Title and meta info in head<br>Title tag determines browser tab text.</li>
       <li>body contains what you see</li>
       <li>
