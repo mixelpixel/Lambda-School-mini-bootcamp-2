@@ -39,7 +39,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       </li>
       <li>anchor tags for links, p tags for paragraphs, h# for headers, etc...</li>
       <li>Whitespace is pretty much ignored; however, whitepsaces (and tabs) can make things much more "human-readable"</li>
-      <li>html comments can be multi-line: &lt;!-- [comments go here] --&gt;
+      <li>html comments can be multi-line: &lt;!-- [comments go here] --&gt;<br>
       &lt;!--<br>
       comments<br>
       can<br>
