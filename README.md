@@ -133,8 +133,8 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
 ## Friday, May 19, 2017, Lecture:  
 
 1. Mini Bootcamp Lesson 2: [Responsive Web Design](https://youtu.be/oXziWoSD8vQ)
-    <details><summary>Click here for notes from lecture 2</summary>
-    <a href="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/README.md">Link to Lecture 2 notes: README.md</a>
+    <details><summary>Click here for notes from lecture 2</summary>  
+    <a href="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/README.md">Link to Lecture 2 notes: README.md</a>  
     </details>
 
 2. Homework assignment: [Replicate this web page](http://blackrockdigital.github.io/startbootstrap-clean-blog/post.html)  
