@@ -26,7 +26,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       </li>
       <li>
         &lt;html lang="en"&gt;<br>
-        per: <a href="https://www.w3.org/International/questions/qa-html-language-declarations">w3.org, "language declaration"</a><br>
+        per <a href="https://www.w3.org/International/questions/qa-html-language-declarations">w3.org: language declaration</a><br>
         <i>"Always use a language attribute on the html element. This is inherited by all other elements, and so will set a default language for the text in the document head element."</i><br>
       </li>
       <li>Basic html document layout:<br><ol>
@@ -66,7 +66,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
         &lt;html&gt; &lt;head&gt; &lt;title&gt;Browser Tab Text&lt;/title&gt; <b>&lt;link to CSS file&gt;</b> &lt;/head&gt; &lt;body&gt; &lt;/body&gt; &lt;/html&gt;<br>
         e.g. &lt;link rel="stylesheet" type="text/css" <b>href="homework.css"</b>&gt;
       </li>
-      <li><a href="https://www.w3schools.com/tags/tag_link.asp">CSS link syntax</a>
+      <li>per <a href="https://www.w3schools.com/tags/tag_link.asp">w3schools.com: CSS link syntax</a>
 
 
 
