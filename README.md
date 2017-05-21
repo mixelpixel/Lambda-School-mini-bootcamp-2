@@ -92,7 +92,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       CSS order of precedence: most exact vs top to bottom cascade (vs importance)<ol>
         <li>Importance</li>
         <li>Specificity</li>
-        <li>Source Order</li></ol><br>
+        <li>Source Order</li></ol>
       For more info, per: <a href="https://www.w3.org/wiki/Inheritance_and_cascade">"Inheritance and Cascade"</a>
 
       <li>CSS comments are between forward slash and star: /&#42; <i>comments go here</i> &#42;/ and they can span multiple lines as well.</li>
