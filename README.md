@@ -22,7 +22,10 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
         html = Hyper-Text Markup Language<br>
         HTML consists of matching &lt;tag_type&gt; openings and &lt;/tag_type&gt; closings.<br>
         Whatever is inside the open/close tag set belongs to that tag area.<br>
-        E.g. &lt;tag_type&gt; tag_area &lt;/tag_type&gt;<br>
+        I.e. &lt;open&gt; tag_area &lt;close&gt;<br>
+        To declare a closing, the tag type is prepended with a forward slash: /<br>
+        I.e. &lt;tag_type&gt; tag_area &lt;/tag_type&gt;<br>
+        E.g. &lt;html&gt; html_area &lt;/html&gt;<br>
         HTML involves "nesting" tags inside each other per sections, containers, divisions, etc.
       </li>
       <li>
