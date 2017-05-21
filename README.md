@@ -19,16 +19,18 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       <li>
       Declaring the type of document: &lt;!DOCTYPE html&gt;<br>
       html = Hyper-Text Markup Language<br>
+      HTML consists of open &lt; &gt; and closing &lt;/ &gt; tags<br>
+      Whatever is inside the tags belongs to that tag area.<br>
+      "nesting" tags inside each other per sections, containers, divisions, etc.
       </li>
       <li>
       &lt;html lang="en"&gt;<br>
       per: <a href="https://www.w3.org/International/questions/qa-html-language-declarations">w3.org, "language declaration"</a><br>
       <i>"Always use a language attribute on the html element. This is inherited by all other elements, and so will set a default language for the text in the document head element."</i><br>
       </li>
-      <li>Basic html document layout: doc. type, head, body</li>
+      <li>Basic html document layout: doc. type, "head" is meta-info mostly for the browser, and the actual "body" of the page</li>
       <li>Title and meta info in head<br>Title tag determines browser tab text.</li>
       <li>body contains what you see</li>
-      <li>nesting tags</li>
       <li>image tags don't need to be closed</li>
       <li>anchor tags for links, p tags for paragraphs, h# for headers, etc...</li>
       <li>Whitespace is pretty much ignored; however, whitepsaces (and tabs) can make things much more "human-readable"</li>
