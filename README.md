@@ -135,7 +135,7 @@ Lambda University: http://www.lambdauniversity.com
 ## Friday, May 19, 2017, Lecture:  
 1. Mini Bootcamp Lesson 2: [Responsive Web Design](https://youtu.be/oXziWoSD8vQ)
   - [Link to Lecture 2 notes](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/README.md)
-  - [Lesson 2 lecture example](https://codepen.io/mixelpix/pen/zwMMVz)
+  - [Lesson 2 lecture example on CodePen.io](https://codepen.io/mixelpix/pen/zwMMVz)
 
 2. Homework assignment: [Replicate this web page](http://blackrockdigital.github.io/startbootstrap-clean-blog/post.html)  
   - [Completed homework](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson2/)
