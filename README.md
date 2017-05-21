@@ -75,8 +75,8 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       <li>
         basic CSS syntax:<br>
         <b>tag_type {</b><br>
-        <b style="text-indent: 40px">declaration: specification;</b><br>
-        <b style="text-indent: 40px">...</b><br>
+        <b style="text-indent: 400px">declaration: specification;</b><br>
+        <b style="text-indent: 400px">...</b><br>
         <b>}</b><br>
       </li>
 
