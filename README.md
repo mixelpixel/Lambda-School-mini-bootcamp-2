@@ -61,8 +61,8 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       be<br>
       across<br>
       multiple<br>
-      lines<br></i>
-      --&gt;
+      lines<br>
+      --&gt;</i>
       </li>
       <h2>CSS</h2>
       <li>CSS = Cascading Style Sheet</li>
