@@ -126,9 +126,9 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
     </ul></details>
 
 2. Homework assignment: [Replicate the images in HTML and CSS code.](https://github.com/SunJieMing/LS-Web-Intro-I)  
-    1. [Completed homework 01](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/1homework) <details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/1homework/first_layout.png"></details>
-    2. [Completed homework 02](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/2homework) <details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/2homework/second_layout.png"></details>
-    3. [Completed homework 03](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/3homework) <details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/3homework/third_layout.png"></details>
+    1. [Completed homework 01](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework1) <details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework1/homework1.png"></details>
+    2. [Completed homework 02](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework2) <details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework2/homework2.png"></details>
+    3. [Completed homework 03](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework3) <details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework3/homework3.png"></details>
 
 ## Friday, May 19, 2017, Lecture:  
 
