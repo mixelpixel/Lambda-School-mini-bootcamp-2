@@ -13,3 +13,12 @@ p {
 .tag_type_class {
   background: pink;
 }
+
+.size {
+  font-size: 50px;
+}
+
+.first_div {
+  font-size: 28px;
+  background: yellow;
+}
