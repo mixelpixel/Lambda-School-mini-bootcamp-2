@@ -36,7 +36,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
         <li>&lt;body&gt; &lt;/body&gt; is the actual body of the page</li></ol>
       <li>Title and meta info in head<br>
         Title tag determines browser tab text.<br>
-        &lt;html&gt; &lt;head&gt; &lt;title&gt;Browser Tab Text&lt;/title&gt; &lt;/head&gt; &lt;html&gt;
+        &lt;html&gt; &lt;head&gt; &lt;title&gt;Browser Tab Text&lt;/title&gt; &lt;/head&gt; &lt;body&gt; &lt;/body&gt; &lt;/html&gt;
       </li>
       <li>body contains what you see</li>
       <li>
@@ -63,8 +63,8 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       <li>CSS = Cascading Style Sheet</li>
       <li>
         CSS link syntax in the html file (tells the html doc where to find the corresponding css file)<br>
-        &lt;html&gt; &lt;head&gt; &lt;title&gt;Browser Tab Text&lt;/title&gt; <b>&lt;link to CSS file&gt;</b> &lt;/head&gt; &lt;html&gt;<br>
-        e.g. &lt;link rel="stylesheet" type="text/css" <b>href="homework.css"</b>&gt; 
+        &lt;html&gt; &lt;head&gt; &lt;title&gt;Browser Tab Text&lt;/title&gt; <b>&lt;link to CSS file&gt;</b> &lt;/head&gt; &lt;body&gt; &lt;/body&gt; &lt;/html&gt;<br>
+        e.g. &lt;link rel="stylesheet" type="text/css" <b>href="homework.css"</b>&gt;
       </li>
 
 
