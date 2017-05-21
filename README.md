@@ -94,6 +94,9 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
         <li>Specificity</li>
         <li>Source Order</li></ol>
       For more info, per <a href="https://www.w3.org/wiki/Inheritance_and_cascade">w3.org: "Inheritance and Cascade"</a>
+      <li>CSS syntax:<ul>
+        <li>classes are prepended with a period, e.g. .class_name {...}</li>
+        <li>CSS syntax: id's are prepended with a has, e.g. #id_name {...}</li></ul>
 
       <li>CSS comments are between forward slash and star: /&#42; <i>comments go here</i> &#42;/ and they can span multiple lines as well.</li>
 
