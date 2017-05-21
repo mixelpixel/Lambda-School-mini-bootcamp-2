@@ -88,7 +88,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
         <li>classes are prepended with a period, i.e. <b>.class_name{...}</b> e.g.,<br>
         <b>.some_class_name{...}</b> in the CSS file, and,<br>
         <b>&lt;html_tag class="some_class_name"&gt;...&lt;/html_tag&gt;</b> in the HTML file.</li>
-        <li>id's are prepended with a has, i.e. <b>#id_name{...}</b> e.g.
+        <li>id's are prepended with a has, i.e. <b>#id_name{...}</b> e.g.,<br>
         <b>#some_id_name{...}</b> in the CSS file, and,<br>
         <b>&lt;html_tag id="some_id_name"&gt;...&lt;/html_tag&gt;</b> in the HTML file.</ul>
       </li>
