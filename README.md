@@ -25,7 +25,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
         "nesting" tags inside each other per sections, containers, divisions, etc.
       </li>
       <li>
-        &lt;html lang="en"&gt;<br>
+        &lt;html lang="en"&gt;...&lt;/html&gt;<br>
         per <a href="https://www.w3.org/International/questions/qa-html-language-declarations">w3.org: language declaration</a><br>
         <i>"Always use a language attribute on the html element. This is inherited by all other elements, and so will set a default language for the text in the document head element."</i><br>
       </li>
