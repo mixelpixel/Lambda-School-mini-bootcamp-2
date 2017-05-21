@@ -94,14 +94,13 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
         <b>&lt;html_tag id="some_id_name"&gt;...&lt;/html_tag&gt;</b> in the HTML file.</ul>
       </li>
       <li>
-      ID vs CLASS:<ul>
-        <li>ID's are UNIQUE to a single instance</li><ul>
-          <li>Each element can have only one ID</li>
-          <li>Each page can have only one element with that ID</li></ul>
-        <li>CLASSes are used to group element</li><ul>
-          <li>You can use the same class on multiple elements.</li>
-          <li>You can use multiple classes on the same element.</li></ul>
-        </li>
+        ID vs CLASS:<ul>
+          <li>ID's are UNIQUE to a single instance</li><ul>
+            <li>Each element can have only one ID</li>
+            <li>Each page can have only one element with that ID</li></ul>
+          <li>CLASSes are used to group element</li><ul>
+            <li>You can use the same class on multiple elements.</li>
+            <li>You can use multiple classes on the same element.</li></ul>
         <li>More id vs class per <a href="https://css-tricks.com/the-difference-between-id-and-class/">CSS-Tricks.com</a> and <a href="http://stackoverflow.com/q/84378/5225057">stack question/answer</a>
       </li></ul>
       <li>
