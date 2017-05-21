@@ -6,9 +6,9 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
 # Week 1 - TEXT EDITORS, HTML AND CSS
 "The basics of code, how it works on the web, and what websites are made of."  
 ## Monday, May 15, 2017, Lecture:  
-<details><summary>Click here for lecture 1 notes</summary>
-  - [HTML specs, percentage vs. height](http://stackoverflow.com/a/31032477/5225057)
-  - [HTML meta tags](https://www.w3schools.com/tags/tag_meta.asp)
+<details><summary>Click here for notes from lecture 1</summary>
+  - [HTML specs, percentage vs. height](http://stackoverflow.com/a/31032477/5225057)  
+  - [HTML meta tags](https://www.w3schools.com/tags/tag_meta.asp)  
 </details>
 
 1. Mini Bootcamp Lesson 1: [HTML & CSS - Free Mini Code Bootcamp by LambdaSchool](https://youtu.be/nLs9I8MRbO0)  
@@ -19,8 +19,9 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
   - [Completed homework 03](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/3homework) <details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/3homework/third_layout.png"></details>
 
 ## Friday, May 19, 2017, Lecture:  
-<details><summary>Click here for lecture notes</summary>
-  - html comments for divisions
+<details><summary>Click here for notes from lecture 2</summary>
+  - html comments per divisions  
+  -   
 </details>
 
 1. Mini Bootcamp Lesson 2: [Responsive Web Design](https://youtu.be/oXziWoSD8vQ)
