@@ -24,7 +24,16 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       &lt;html lang="en"&gt;<br>
       per: <a href="https://www.w3.org/International/questions/qa-html-language-declarations">w3.org, "language declaration"</a><br>
       <i>"Always use a language attribute on the html element. This is inherited by all other elements, and so will set a default language for the text in the document head element."</i><br>
-      </li>
+      </li><br>
+      <li>Basic division: declaration, head, body</li><br>
+      <li>Title and meta info in head</li><br>
+      <li>body contains what you see</li><br>
+      <li>nesting tags</li><br>
+      <li>image tags don't need to be closed</li><br>
+      <li>anchor tags for links, p tags for paragraphs, h# for headers, etc...</li><br>
+      <li>Whitespace is pretty much ignored; however, whitepsaces (and tabs) can make things much more "human-readable"</li><br>
+      
+
       <li><a href="http://stackoverflow.com/a/31032477/5225057">HTML specs, percentage vs. height</a></li>  
       <li><a href="https://www.w3schools.com/tags/tag_meta.asp">HTML meta tags</a></li>  
     </ul></details>
