@@ -114,12 +114,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       For more info, per <a href="https://www.w3.org/wiki/Inheritance_and_cascade">w3.org: "Inheritance and Cascade"</a>
       </li>
       <li>Per <a href="https://www.w3schools.com/css/css_combinators.asp">w3schools: CSS Combinators</a></li>
-
-
       <li>CSS comments are between forward slash and star: /&#42; <i>comments go here</i> &#42;/ and they can span multiple lines as well.</li>
-
-
-
 
       <h2>Additional Notes</h2>
       <li><a href="http://stackoverflow.com/a/31032477/5225057">HTML specs, percentage vs. height</a></li>  
@@ -127,6 +122,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       <li><a href="https://www.computerhope.com/issues/ch001034.htm">How do I indent or tab text on my web page or in HTML?</li>
       <li><a href="http://www.theukwebdesigncompany.com/articles/entity-escape-characters.php">HTML Escape Characters: Complete List</a></li>
       <li><b>I cannot recommend strongly enough: DO NOT TAKE NOTES IN HTML!!!!!! XD</b></li>
+
     </ul></details>
 
 2. Homework assignment: [Replicate the images in HTML and CSS code.](https://github.com/SunJieMing/LS-Web-Intro-I)  
