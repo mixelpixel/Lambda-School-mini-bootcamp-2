@@ -111,7 +111,9 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
         <li>Importance</li>
         <li>Specificity</li>
         <li>Source Order</li></ol>
-      For more info, per <a href="https://www.w3.org/wiki/Inheritance_and_cascade">w3.org: "Inheritance and Cascade"</a></li>
+      For more info, per <a href="https://www.w3.org/wiki/Inheritance_and_cascade">w3.org: "Inheritance and Cascade"</a>
+      </li>
+      <li>Per <a href="https://www.w3schools.com/css/css_combinators.asp">w3schools: CSS Combinators</a></li>
 
 
       <li>CSS comments are between forward slash and star: /&#42; <i>comments go here</i> &#42;/ and they can span multiple lines as well.</li>
