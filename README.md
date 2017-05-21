@@ -72,6 +72,13 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
         HTML "super power": use the browser element inspector to see how web pages are constructed with html and css!<br>
         e.g. to find a hexadecimal color code (e.g. #4CAF50)
       </li>
+      <li>
+        basic CSS syntax:<br>
+        <b>tag_type {<br>
+        <blockquote>declaration: specification;</blockquote><br>
+        <blockquote>...</blockquote>
+        }</b><br>
+      </li>
 
 
 
