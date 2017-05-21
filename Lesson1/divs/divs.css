@@ -16,7 +16,8 @@ p {
 }
 
 .b {
-  width: 500px;
+  max-width: 1000px; /* compare to .c 100% when expanding and shrinking */
+  min-width: 600px; /* the width of the browser page display */
   height: 50px;
   background: green; /* over-rides "body" width per SPECIFICITY */
 }
