@@ -64,7 +64,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       <li>
         CSS link syntax in the html file (tells the html doc where to find the corresponding css file)<br>
         &lt;html&gt; &lt;head&gt; &lt;title&gt;Browser Tab Text&lt;/title&gt; <b>&lt;link to CSS file&gt;</b> &lt;/head&gt; &lt;html&gt;<br>
-        e.g. &lt;link rel="stylesheet" type="text/css" <b>href="homework.css"<b>&gt; 
+        e.g. &lt;link rel="stylesheet" type="text/css" <b>href="homework.css"</b>&gt; 
       </li>
 
 
