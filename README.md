@@ -124,13 +124,17 @@ Lambda University: http://www.lambdauniversity.com
       <li><a href="https://www.computerhope.com/issues/ch001034.htm">How do I indent or tab text on my web page or in HTML?</li>
       <li><a href="http://www.theukwebdesigncompany.com/articles/entity-escape-characters.php">HTML Escape Characters: Complete List</a></li>
       <li><b>I cannot recommend strongly enough: DO NOT TAKE NOTES IN HTML!!!!!! XD</b></li>
-
-    </ul></details>
+    </ul></details>  
+    - [Link to Lecture 1 example on CodePen.io: "Words"](https://codepen.io/mixelpix/pen/PmxXov)
+    - [Link to Lecture 1 example on CodePen.io: "divs"](https://codepen.io/mixelpix/pen/XRyoJg)
 
 2. Homework assignment: [Replicate the images in HTML and CSS code.](https://github.com/SunJieMing/LS-Web-Intro-I)  
-    1. [Completed homework1](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework1) <details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework1/homework1.png"></details>
-    2. [Completed homework2](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework2) <details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework2/homework2.png"></details>
-    3. [Completed homework3](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework3) <details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework3/homework3.png"></details>
+    1. [Completed homework assignment 1](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework1) <details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework1/homework1.png"></details>  
+    - [Homework assignment 1 on CodePen.io](https://codepen.io/mixelpix/pen/gWQZby)
+    2. [Completed homework assignment 2](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework2) <details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework2/homework2.png"></details>  
+    - [Homework assignment 2 on CodePen.io](https://codepen.io/mixelpix/pen/NjEeqP)  
+    3. [Completed homework assignment 3](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework3) <details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework3/homework3.png"></details>  
+    - [Homework assignment 3 on CodePen.io](https://codepen.io/mixelpix/pen/ZKmVGe)  
 
 ## Friday, May 19, 2017, Lecture:  
 1. Mini Bootcamp Lesson 2: [Responsive Web Design](https://youtu.be/oXziWoSD8vQ)
