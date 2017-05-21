@@ -89,6 +89,8 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       <b>.some_name{...}</b> in the CSS file, and,<br>
       <b>&lt;html_tag class="some_name"&gt;...&lt;/html_tag&gt;</b> in the HTML file.
 
+      <li>CSS comments are between forward slash and star: /* comments go here \*/ and they can span multiple lines as well.</li>
+
 
 
 
