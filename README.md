@@ -9,10 +9,10 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
 
 1. Mini Bootcamp Lesson 1: [HTML & CSS - Free Mini Code Bootcamp by LambdaSchool](https://youtu.be/nLs9I8MRbO0)  
     <details><summary>Click here for notes from lecture 1</summary><ul>  
-      <li><href="https://youtu.be/nLs9I8MRbO0?t=12m"Lecture starts@ ~12min</a><br>
+      <li><a href="https://youtu.be/nLs9I8MRbO0?t=12m"Lecture starts@ ~12min</a><br>
       There's good information in the first twelve minutes, don't skip it.</li>
       <li><a href="https://justinjackson.ca/words.html">Words</a></li>
-      
+
       <li><a href="http://stackoverflow.com/a/31032477/5225057">HTML specs, percentage vs. height</a></li>  
       <li><a href="https://www.w3schools.com/tags/tag_meta.asp">HTML meta tags</a></li>  
     </ul></details>
