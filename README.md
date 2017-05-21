@@ -44,7 +44,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       </li>
       <li>body contains what you see</li>
       <li>
-        image tags don't need to be closed<br>
+        image tags (and some other tags) don't need to be closed<br>
         &lt;img src="url_goes_here"&gt;<br>
         ...& it makes NO difference, but you <i>can</i> use a closing tag:<br>
         &lt;img src="url_goes_here"/&gt;
