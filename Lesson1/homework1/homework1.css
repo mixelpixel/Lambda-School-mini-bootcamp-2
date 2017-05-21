@@ -1,7 +1,7 @@
-/* for use with /Lesson1/2homework/second_layout.html */
+/* for use with /Lesson1/1homework/homework1.html */
 
 body {
-  background: purple;
+  background: blue;
 }
 
 a {
@@ -15,7 +15,7 @@ a {
 #footer {
   position: absolute;
   bottom: 0; left: 0;
-  width: 100%; height: 80px;
+  width: 100%; height: 45px;
   background: green;
 }
 
@@ -29,13 +29,13 @@ a {
 #Lsidebar {
   position: absolute;
   top:0; bottom:0; left:0;
-  width:200px; height: 100%;
-  background: blue;
+  width:90px; height: 100%;
+  background: yellow;
 }
 
 #Rsidebar {
   position: absolute;
   top:0; bottom:0; right:0;
-  width:200px; height: 100%;
+  width:90px; height: 100%;
   background: yellow;
 }
