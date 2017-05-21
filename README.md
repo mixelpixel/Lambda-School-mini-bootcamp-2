@@ -26,7 +26,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       <li></li>   
     </ul></details>
 
-2. Homework assignment: [Replicate this web page](http://blackrockdigital.github.io/startbootstrap-clean-blog/post.html)
+2. Homework assignment: [Replicate this web page](http://blackrockdigital.github.io/startbootstrap-clean-blog/post.html)  
 - [Completed homework](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson2/)
 
 # Week 2 - INTRO TO JAVASCRIPT
