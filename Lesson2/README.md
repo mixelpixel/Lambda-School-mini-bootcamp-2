@@ -8,6 +8,7 @@ Navbar and boxes: http://codepen.io/anon/pen/vmVqXR
 - Gets applied OUTSIDE the element
 - e.g. {margin: 10px;}
 - gives all sides an OUTSIDE margin of 10 pixels
+- usually there's some margin already built-in
 
 ### padding:  
 - Gets applied INSIDE the element
