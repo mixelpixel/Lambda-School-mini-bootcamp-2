@@ -19,7 +19,7 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       <li>
       Declaring the type of document: &lt;!DOCTYPE html&gt;<br>
       html = Hyper-Text Markup Language<br>
-      HTML consists of open &lt; &gt; and closing &lt;/ &gt; tags<br>
+      HTML consists of opening &lt; &gt; and closing &lt;/ &gt; tags<br>
       Whatever is inside the tags belongs to that tag area.<br>
       "nesting" tags inside each other per sections, containers, divisions, etc.
       </li>
@@ -31,7 +31,8 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       <li>Basic html document layout: doc. type, "head" is meta-info mostly for the browser, and the actual "body" of the page</li>
       <li>Title and meta info in head<br>Title tag determines browser tab text.</li>
       <li>body contains what you see</li>
-      <li>image tags don't need to be closed</li>
+      <li>image tags don't need to be closed<br>
+      &lt;img src="url_goes_here"&gt;</li>
       <li>anchor tags for links, p tags for paragraphs, h# for headers, etc...</li>
       <li>Whitespace is pretty much ignored; however, whitepsaces (and tabs) can make things much more "human-readable"</li>
 
