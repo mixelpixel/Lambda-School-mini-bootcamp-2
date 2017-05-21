@@ -121,7 +121,8 @@ Lesson archive: https://lambdaschool.com/mini-bootcamp/archive
       <li><a href="http://stackoverflow.com/a/31032477/5225057">HTML specs, percentage vs. height</a></li>  
       <li><a href="https://www.w3schools.com/tags/tag_meta.asp">HTML meta tags</a></li>
       <li><a href="https://www.computerhope.com/issues/ch001034.htm">How do I indent or tab text on my web page or in HTML?</li>
-      <li><a href="http://www.theukwebdesigncompany.com/articles/entity-escape-characters.php">HTML Escape Characters: Complete List</a>
+      <li><a href="http://www.theukwebdesigncompany.com/articles/entity-escape-characters.php">HTML Escape Characters: Complete List</a></li>
+      <li><b>I cannot recommend strongly enough: DO NOT TAKE NOTES IN HTML!!!!!! XD</b></li>
     </ul></details>
 
 2. Homework assignment: [Replicate the images in HTML and CSS code.](https://github.com/SunJieMing/LS-Web-Intro-I)  
