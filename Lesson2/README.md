@@ -26,5 +26,20 @@ Navbar and boxes: http://codepen.io/anon/pen/vmVqXR
 - CSS assumes second value is Right and Left
 - i.e. {padding: 10px 20px 10px 20px;}
 
+## ordered and unordered lists
+ - <ul></ul>
+ - <ol></ol>
+ - {list-style: none;} to ignore the list style
+
 ## float
-{float: right;} & {float: left;}  
+ - {float: right;} & {float: left;}  
+ - floating the un-styled list...
+
+## container elements
+ - surrounding a buncha stuff to give it class characteristics
+
+## percentage vs pixel dimensions
+ - http://stackoverflow.com/questions/7285058/css-percentages-or-pixels
+ - https://benfrain.com/just-use-pixels/
+
+### Bootstrap
