@@ -1,4 +1,12 @@
 /* for use with /Lesson2/homework.html */
 /*header.style {
-  background-image: url(IMG_0035.jpg)
+  background-image: url(IMG_0035.jpg);
 }*/
+
+.transparent {
+  background-color: transparent;
+}
+
+.intro-header {
+  background-size: cover;
+}
