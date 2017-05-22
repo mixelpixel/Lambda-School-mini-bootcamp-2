@@ -3,7 +3,7 @@
 Lecture starts@ https://youtu.be/oXziWoSD8vQ?t=3m  
 Navbar and boxes: http://codepen.io/anon/pen/vmVqXR  
 
-# margin vs padding
+## margin vs padding
 ### margin:  
 - Gets applied OUTSIDE the element
 - e.g. {margin: 10px;}
