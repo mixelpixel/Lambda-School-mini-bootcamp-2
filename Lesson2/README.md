@@ -49,5 +49,5 @@ Navbar and boxes: http://codepen.io/anon/pen/vmVqXR
  - [Download Bootstrap](http://getbootstrap.com/getting-started/#download)
  - [Bootstrap Components](http://getbootstrap.com/components)
  - [CodePen example of linking to Bootstrap components](https://codepen.io/mixelpix/pen/ZKmwMP)
- - [Bootstrap Grid](http://getbootstrap.com/css/#grid)
-  - The Bootstrap Gris is BASE 12
+ - [Bootstrap Grid](http://getbootstrap.com/css/#grid)  
+  - The Bootstrap Grid is BASE 12
