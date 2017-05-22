@@ -1,4 +1,5 @@
 # Lambda-School-mini-bootcamp-2
+**"The basics of code, how it works on the web, and what websites are made of."**  
 Start date: May 15, 2017: https://lambdaschool.com/mini-bootcamp/  
 Slack channel: https://lambdaschool.slack.com  
 Lesson archive: https://lambdaschool.com/mini-bootcamp/archive  
@@ -7,13 +8,12 @@ My Github: https://github.com/mixelpixel
 Lambda University: http://www.lambdauniversity.com  
 
 # Week 1 - TEXT EDITORS, HTML AND CSS
-"The basics of code, how it works on the web, and what websites are made of."  
 ## Monday, May 15, 2017, Lecture:  
 1. Mini Bootcamp Lesson 1:
   - [HTML & CSS - Free Mini Code Bootcamp by LambdaSchool](https://youtu.be/nLs9I8MRbO0)  
   - [Link to Lecture 1 example on CodePen.io: "Words"](https://codepen.io/mixelpix/pen/PmxXov)
   - [Link to Lecture 1 example on CodePen.io: "divs"](https://codepen.io/mixelpix/pen/XRyoJg)
-    <details><summary>Click here for notes from lecture 1</summary><ul>  
+    <details><summary>Click here for Lecture 1 notes</summary><ul>  
       <li>
         <a href="https://youtu.be/nLs9I8MRbO0?t=12m">Lecture 1 starts@ ~12min</a><br>
         There's good information in the first twelve minutes, don't skip it.
