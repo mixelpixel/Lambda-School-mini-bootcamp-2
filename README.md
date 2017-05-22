@@ -13,8 +13,7 @@ Lambda University: http://www.lambdauniversity.com
   - [LESSON 1: "HTML & CSS - Free Mini Code Bootcamp by LambdaSchool"](https://youtu.be/nLs9I8MRbO0)  
   - [Lecture 1 example on CodePen.io: "Words"](https://codepen.io/mixelpix/pen/PmxXov)
   - [Lecture 1 example on CodePen.io: "divs"](https://codepen.io/mixelpix/pen/XRyoJg)
-  <details><summary>Lecture 1 notes</summary>
-    <ul>  
+  <details><summary>Lecture 1 notes</summary><ul>  
       <li>
         <a href="https://youtu.be/nLs9I8MRbO0?t=12m">Lecture 1 starts@ ~12min</a><br>
         There's good information in the first twelve minutes, don't skip it.
