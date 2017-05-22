@@ -46,3 +46,4 @@ Navbar and boxes: http://codepen.io/anon/pen/vmVqXR
 ## Bootstrap
  - http://getbootstrap.com
  - [Download Bootstrap](http://getbootstrap.com/getting-started/#download)
+ - [Bootstrap Components](http://getbootstrap.com/components)
