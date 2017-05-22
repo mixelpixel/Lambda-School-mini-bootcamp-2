@@ -27,7 +27,7 @@ Navbar and boxes: http://codepen.io/anon/pen/vmVqXR
 - i.e. {padding: 10px 20px 10px 20px;}
 
 ## ordered and unordered lists
- - \<ul\>\</ul\>
+ - \<ul>\</ul>
  - \<ol>\</ol>
  - {list-style: none;} to ignore the list style
 
