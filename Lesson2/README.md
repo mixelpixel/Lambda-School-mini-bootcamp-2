@@ -50,3 +50,4 @@ Navbar and boxes: http://codepen.io/anon/pen/vmVqXR
  - [Bootstrap Components](http://getbootstrap.com/components)
  - [CodePen example of linking to Bootstrap components](https://codepen.io/mixelpix/pen/ZKmwMP)
  - [Bootstrap Grid](http://getbootstrap.com/css/#grid)
+  - The Bootstrap Gris is BASE 12
