@@ -1,5 +1,10 @@
 /* for use with /Lesson2/homework.html */
 
+blockquote {
+  font-style: italic;
+  color: gray;
+}
+
 .transparent {
   background-color: transparent;
 }
@@ -7,4 +12,46 @@
 .intro-header {
   background-image: url(IMG_0035.jpg);
   background-size: cover;
+}
+
+.text {
+  text-align: center;
+}
+
+.social{
+	font-size: 1.5em;
+	text-align: center;
+	margin-top: 75px;
+}
+
+/* Style all font awesome icons */
+/*.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}*/
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    /*background: #3B5998;
+    color: white;*/
+}
+
+/* Twitter */
+.fa-twitter {
+    /*background: #55ACEE;
+    color: white;*/
+}
+
+.fa-github {
+  /*color: transparent;*/
 }
