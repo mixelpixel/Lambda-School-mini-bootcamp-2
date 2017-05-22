@@ -3,7 +3,7 @@
 Lecture starts@ https://youtu.be/oXziWoSD8vQ?t=3m  
 Navbar and boxes: http://codepen.io/anon/pen/vmVqXR  
 
-## margin vs padding
+# margin vs padding
 ### margin:  
 - Gets applied OUTSIDE the element
 - e.g. {margin: 10px;}
@@ -26,6 +26,7 @@ Navbar and boxes: http://codepen.io/anon/pen/vmVqXR
 - CSS assumes second value is Right and Left
 - i.e. {padding: 10px 20px 10px 20px;}
 
+# Common html tags and css declarations
 ## ordered and unordered lists
  - \<ul>\</ul>
  - \<ol>\</ol>
@@ -42,4 +43,4 @@ Navbar and boxes: http://codepen.io/anon/pen/vmVqXR
  - http://stackoverflow.com/questions/7285058/css-percentages-or-pixels
  - https://benfrain.com/just-use-pixels/
 
-## Bootstrap
+# Bootstrap
