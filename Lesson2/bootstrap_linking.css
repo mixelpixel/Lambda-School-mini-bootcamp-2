@@ -7,3 +7,7 @@ body {
   background: pink;
   border: 1px dashed black;
 }
+
+.newclass {
+  background: orange;
+}
