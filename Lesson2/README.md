@@ -44,10 +44,13 @@ Navbar and boxes: http://codepen.io/anon/pen/vmVqXR
  - http://stackoverflow.com/questions/7285058/css-percentages-or-pixels
  - https://benfrain.com/just-use-pixels/
 
+### borders
+ - explicitly declaring "solid" vs. "dashed"...
+
 ## Bootstrap
  - http://getbootstrap.com
  - [Download Bootstrap](http://getbootstrap.com/getting-started/#download)
  - [Bootstrap Components](http://getbootstrap.com/components)
  - [CodePen example of linking to Bootstrap components](https://codepen.io/mixelpix/pen/ZKmwMP)
  - [Bootstrap Grid](http://getbootstrap.com/css/#grid): the Bootstrap grid is BASE 12
- - 
+ -
