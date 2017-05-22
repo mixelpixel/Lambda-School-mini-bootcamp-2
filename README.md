@@ -13,7 +13,7 @@ Lambda University: http://www.lambdauniversity.com
   - [LESSON 1: "HTML & CSS - Free Mini Code Bootcamp by LambdaSchool"](https://youtu.be/nLs9I8MRbO0)  
   - [Lecture 1 example on CodePen.io: "Words"](https://codepen.io/mixelpix/pen/PmxXov)
   - [Lecture 1 example on CodePen.io: "divs"](https://codepen.io/mixelpix/pen/XRyoJg)
-  <details><summary>Lecture 1 notes</summary><ul>  
+    <details><summary>Lecture 1 notes</summary><ul>  
       <li>
         <a href="https://youtu.be/nLs9I8MRbO0?t=12m">Lecture 1 starts@ ~12min</a><br>
         There's good information in the first twelve minutes, don't skip it.
@@ -127,7 +127,7 @@ Lambda University: http://www.lambdauniversity.com
       <li><a href="https://www.computerhope.com/issues/ch001034.htm">How do I indent or tab text on my web page or in HTML?</li>
       <li><a href="http://www.theukwebdesigncompany.com/articles/entity-escape-characters.php">HTML Escape Characters: Complete List</a></li>
       <li><b>I cannot recommend strongly enough: DO NOT TAKE NOTES IN HTML!!!!!! XD</b></li>
-    </details></ul>  
+    </ul></details>  
 
 2. Homework assignment:
   - [Replicate the images in HTML and CSS code.](https://github.com/SunJieMing/LS-Web-Intro-I)  
