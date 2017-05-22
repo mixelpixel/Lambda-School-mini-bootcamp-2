@@ -53,4 +53,5 @@ Navbar and boxes: http://codepen.io/anon/pen/vmVqXR
  - [Bootstrap Components](http://getbootstrap.com/components)
  - [CodePen example of linking to Bootstrap components](https://codepen.io/mixelpix/pen/ZKmwMP)
  - [Bootstrap Grid](http://getbootstrap.com/css/#grid): the Bootstrap grid is BASE 12
- -
+ - Over-riding bootstrap styles by making a "newclass" class: [Lecture example:](https://youtu.be/oXziWoSD8vQ?t=34m23s)
+ - 
