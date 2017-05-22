@@ -10,10 +10,10 @@ Lambda University: http://www.lambdauniversity.com
 # Week 1 - TEXT EDITORS, HTML AND CSS
 ## Monday, May 15, 2017, Lecture:  
 1. Mini Bootcamp Lesson 1:
-  - [HTML & CSS - Free Mini Code Bootcamp by LambdaSchool](https://youtu.be/nLs9I8MRbO0)  
-  - [Link to Lecture 1 example on CodePen.io: "Words"](https://codepen.io/mixelpix/pen/PmxXov)
-  - [Link to Lecture 1 example on CodePen.io: "divs"](https://codepen.io/mixelpix/pen/XRyoJg)
-    <details><summary>Click here for Lecture 1 notes</summary><ul>  
+  - [LESSON 1: "HTML & CSS - Free Mini Code Bootcamp by LambdaSchool"](https://youtu.be/nLs9I8MRbO0)  
+  - [Lecture 1 example on CodePen.io: "Words"](https://codepen.io/mixelpix/pen/PmxXov)
+  - [Lecture 1 example on CodePen.io: "divs"](https://codepen.io/mixelpix/pen/XRyoJg)
+    <details><summary>Lecture 1 notes</summary><ul>  
       <li>
         <a href="https://youtu.be/nLs9I8MRbO0?t=12m">Lecture 1 starts@ ~12min</a><br>
         There's good information in the first twelve minutes, don't skip it.
@@ -139,11 +139,13 @@ Lambda University: http://www.lambdauniversity.com
       - [Homework assignment 3 on CodePen.io](https://codepen.io/mixelpix/pen/ZKmVGe)<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework3/homework3.png"></details>  
 
 ## Friday, May 19, 2017, Lecture:  
-1. Mini Bootcamp Lesson 2: [Responsive Web Design](https://youtu.be/oXziWoSD8vQ)
+1. Mini Bootcamp Lesson 2:
+  - [LESSON 2: "Responsive Web Design"](https://youtu.be/oXziWoSD8vQ)
   - [Lesson 2 lecture example on CodePen.io: "Boxes and divs"](https://codepen.io/mixelpix/pen/zwMMVz)
   - [Lecture 2 notes](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/README.md)
 
-2. Homework assignment: [Replicate this web page](http://blackrockdigital.github.io/startbootstrap-clean-blog/post.html)  
+2. Homework assignment:
+  - [Replicate this web page](http://blackrockdigital.github.io/startbootstrap-clean-blog/post.html)  
   - [Completed homework](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson2/)
 
 # Week 2 - INTRO TO JAVASCRIPT
