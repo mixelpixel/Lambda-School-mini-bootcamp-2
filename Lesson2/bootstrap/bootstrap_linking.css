@@ -8,6 +8,6 @@ body {
   border: 1px dashed black;
 }
 
-.newclass {
+.newclass { /* more likely to overwrite bootstrap without compromising bootstrap defaults */
   background: orange;
 }
