@@ -1,7 +1,6 @@
 body {
   background: green;
 }
-/* odd, body bg doesn't take effect in Safari, Chrome or codepen with bootstrap link. ?. */
 
 .col-md-1 {
   background: pink;
