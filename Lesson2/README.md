@@ -40,6 +40,7 @@ Navbar and boxes: http://codepen.io/anon/pen/vmVqXR
  - surrounding a buncha stuff to give it class characteristics
 
 ### percentage vs pixel dimensions
+ - Don't use height percentage for now, use fixed pixel heights.
  - http://stackoverflow.com/questions/7285058/css-percentages-or-pixels
  - https://benfrain.com/just-use-pixels/
 
@@ -47,3 +48,4 @@ Navbar and boxes: http://codepen.io/anon/pen/vmVqXR
  - http://getbootstrap.com
  - [Download Bootstrap](http://getbootstrap.com/getting-started/#download)
  - [Bootstrap Components](http://getbootstrap.com/components)
+ - [CodePen example of linking to Bootstrap components](https://codepen.io/mixelpix/pen/ZKmwMP)
