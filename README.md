@@ -9,7 +9,8 @@ Lambda University: http://www.lambdauniversity.com
 # Week 1 - TEXT EDITORS, HTML AND CSS
 "The basics of code, how it works on the web, and what websites are made of."  
 ## Monday, May 15, 2017, Lecture:  
-1. Mini Bootcamp Lesson 1: [HTML & CSS - Free Mini Code Bootcamp by LambdaSchool](https://youtu.be/nLs9I8MRbO0)  
+1. Mini Bootcamp Lesson 1:
+  - [HTML & CSS - Free Mini Code Bootcamp by LambdaSchool](https://youtu.be/nLs9I8MRbO0)  
   - [Link to Lecture 1 example on CodePen.io: "Words"](https://codepen.io/mixelpix/pen/PmxXov)
   - [Link to Lecture 1 example on CodePen.io: "divs"](https://codepen.io/mixelpix/pen/XRyoJg)
     <details><summary>Click here for notes from lecture 1</summary><ul>  
@@ -128,7 +129,8 @@ Lambda University: http://www.lambdauniversity.com
       <li><b>I cannot recommend strongly enough: DO NOT TAKE NOTES IN HTML!!!!!! XD</b></li>
     </ul></details>  
 
-2. Homework assignment: [Replicate the images in HTML and CSS code.](https://github.com/SunJieMing/LS-Web-Intro-I)  
+2. Homework assignment:
+  - [Replicate the images in HTML and CSS code.](https://github.com/SunJieMing/LS-Web-Intro-I)  
     1. [Homework assignment 1 on github](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework1)
       - [Homework assignment 1 on CodePen.io](https://codepen.io/mixelpix/pen/gWQZby)<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework1/homework1.png"></details>  
     2. [Homework assignment 2 on github](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework2)
@@ -138,8 +140,8 @@ Lambda University: http://www.lambdauniversity.com
 
 ## Friday, May 19, 2017, Lecture:  
 1. Mini Bootcamp Lesson 2: [Responsive Web Design](https://youtu.be/oXziWoSD8vQ)
-  - [Link to Lecture 2 notes](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/README.md)
-  - [Lesson 2 lecture example on CodePen.io](https://codepen.io/mixelpix/pen/zwMMVz)
+  - [Lesson 2 lecture example on CodePen.io: "Boxes and divs"](https://codepen.io/mixelpix/pen/zwMMVz)
+  - [Lecture 2 notes](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/README.md)
 
 2. Homework assignment: [Replicate this web page](http://blackrockdigital.github.io/startbootstrap-clean-blog/post.html)  
   - [Completed homework](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson2/)
