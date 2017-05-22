@@ -44,3 +44,5 @@ Navbar and boxes: http://codepen.io/anon/pen/vmVqXR
  - https://benfrain.com/just-use-pixels/
 
 ## Bootstrap
+ - http://getbootstrap.com
+ - [Download Bootstrap](http://getbootstrap.com/getting-started/#download)
