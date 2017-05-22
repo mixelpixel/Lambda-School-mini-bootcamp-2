@@ -42,4 +42,4 @@ Navbar and boxes: http://codepen.io/anon/pen/vmVqXR
  - http://stackoverflow.com/questions/7285058/css-percentages-or-pixels
  - https://benfrain.com/just-use-pixels/
 
-### Bootstrap
+## Bootstrap
