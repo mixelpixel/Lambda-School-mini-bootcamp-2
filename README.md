@@ -2,6 +2,7 @@
 - Start date: May 15, 2017: https://lambdaschool.com/mini-bootcamp/  
 - Slack channel: https://lambdaschool.slack.com  
 - Lesson archive: https://lambdaschool.com/mini-bootcamp/archive  
+***
 - My Codepen: https://codepen.io/mixelpix/  
 - My Github: https://github.com/mixelpixel  
 - Lambda University: http://www.lambdauniversity.com  
