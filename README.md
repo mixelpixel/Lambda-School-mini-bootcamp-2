@@ -7,7 +7,8 @@
 - My Github: https://github.com/mixelpixel  
 - Lambda University: http://www.lambdauniversity.com  
 - miniBootcamp #1: https://docs.google.com/document/d/1qH-AbzE5h1tuAUPlGb6NbDujBJJy-k-WN-2xZ-8cV28/edit#heading=h.t89roya3gxli
-- Pre-coursework: https://lambdaschool.teachable.com/p/pre-bootcamp/
+- Pre-coursework: https://lambdaschool.teachable.com/p/pre-bootcamp/  
+- mini JavaScript Bootcamp: http://lambdaschool.com/mini-bootcamp/javascript
 
 # Week 1 - TEXT EDITORS, HTML AND CSS
 ## **"The basics of code, how it works on the web, and what websites are made of."**  
