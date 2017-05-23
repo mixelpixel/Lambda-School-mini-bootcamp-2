@@ -11,8 +11,8 @@
 # Week 1 - TEXT EDITORS, HTML AND CSS
 **"The basics of code, how it works on the web, and what websites are made of."**  
 ## Monday, May 15, 2017, Lecture:  
-1. Mini Bootcamp Lesson 1:
-  - [LESSON 1: "HTML & CSS - Free Mini Code Bootcamp by LambdaSchool"](https://youtu.be/nLs9I8MRbO0)  
+1. Mini Bootcamp Lesson 1: HTML & CSS
+  - [LESSON 1](https://youtu.be/nLs9I8MRbO0)  
   - [Lecture 1 example on CodePen.io: "Words"](https://codepen.io/mixelpix/pen/PmxXov)
   - [Lecture 1 example on CodePen.io: "divs"](https://codepen.io/mixelpix/pen/XRyoJg)
     <details><summary>Lecture 1 notes</summary><ul>  
@@ -141,8 +141,8 @@
       - [Homework assignment 3 on CodePen.io](https://codepen.io/mixelpix/pen/ZKmVGe)<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework3/homework3.png"></details>  
 
 ## Friday, May 19, 2017, Lecture:  
-1. Mini Bootcamp Lesson 2:
-  - [LESSON 2: "Responsive Web Design"](https://youtu.be/oXziWoSD8vQ)
+1. Mini Bootcamp Lesson 2: Responsive Web Design
+  - [LESSON 2](https://youtu.be/oXziWoSD8vQ)
   - [Lesson 2 lecture example on CodePen.io: "Boxes and divs"](https://codepen.io/mixelpix/pen/zwMMVz)
   - [Lecture 2 notes](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/README.md)
 
@@ -154,8 +154,8 @@
 # Week 2 - INTRO TO JAVASCRIPT
 **"An in-depth introduction to the language of the web."**  
 ## Monday, May 22, 2017, Lecture
-1. Mini Bootcamp Lesson 3:
- - [Lesson 3: "Command Line, Git & Github"](https://youtu.be/dTQDhVChVzg)
+1. Mini Bootcamp Lesson 3: Command Line, Git & Github
+ - [LESSON 3](https://youtu.be/dTQDhVChVzg)
  - NOTES: command line: pwd/cd/ls etc.
  - NOTES: git: fork, clone, status, add, commit, push, etc. 
 2. Homework assignment:
@@ -164,8 +164,8 @@
  - <details><summary>Click here for the modified Tweet</summary><img src=""></details>  
 
 ## Friday, May 26, 2017, Lecture
-1. Mini Bootcamp Lesson 4
- - [Lesson 4: ""]()
+1. Mini Bootcamp Lesson 4: 
+ - [LESSON 4]()
  - examples, notes...
 2. Homework assignment:
  - []()
@@ -174,16 +174,16 @@
 # Week 3 - INTRO TO JAVASCRIPT
 **"Arrays, objects, and Array/Object class methods."**  
 ## Monday, May 29, 2017, Lecture
-1. Mini Bootcamp Lesson 5
- - [Lesson 5: ""]()
+1. Mini Bootcamp Lesson 5: 
+ - [LESSON 5]()
  - examples, notes...
 2. Homework assignment:
  - []()
  - [Completed homework]()
 
 ## Friday, June 2, 2017, Lecture
-1. Mini Bootcamp Lesson 6
- - [Lesson 6: ""]()
+1. Mini Bootcamp Lesson 6:
+ - [LESSON 6]()
  - examples, notes...
 2. Homework assignment:
  - []()
@@ -192,17 +192,19 @@
 # Week 4 - INTERMEDIATE JAVASCRIPT
 **"Prototype, this, closure, and callbacks."**  
 ## Monday, June 5, 2017, Lecture
-1. Mini Bootcamp Lesson 7
- - [Lesson 7: ""]()
+1. Mini Bootcamp Lesson 7: 
+ - [LESSON 7]()
  - examples, notes...
 2. Homework assignment:
  - []()
  - [Completed homework]()
 
 ## Friday, June 9, 2017, Lecture
-1. Mini Bootcamp Lesson 8
- - [Lesson 8: ""]()
+1. Mini Bootcamp Lesson 8: 
+ - [LESSON 8]()
  - examples, notes...
 2. Homework assignment:
  - []()
  - [Completed homework]()
+
+fin.
