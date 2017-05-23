@@ -5,8 +5,9 @@
 ***
 - My Codepen: https://codepen.io/mixelpix/  
 - My Github: https://github.com/mixelpixel  
+  - To do: https://pages.github.com ...  
 - Lambda University: http://www.lambdauniversity.com  
-- miniBootcamp #1: https://docs.google.com/document/d/1qH-AbzE5h1tuAUPlGb6NbDujBJJy-k-WN-2xZ-8cV28/edit#heading=h.t89roya3gxli
+- miniBootcamp #1 (HTTP, Python, Flask, JavaScript): https://docs.google.com/document/d/1qH-AbzE5h1tuAUPlGb6NbDujBJJy-k-WN-2xZ-8cV28/edit#heading=h.t89roya3gxli
 - Pre-coursework: https://lambdaschool.teachable.com/p/pre-bootcamp/  
 - mini JavaScript Bootcamp: http://lambdaschool.com/mini-bootcamp/javascript
 
