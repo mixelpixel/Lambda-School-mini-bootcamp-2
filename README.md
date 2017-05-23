@@ -147,7 +147,7 @@ Lambda University: http://www.lambdauniversity.com
 2. Homework assignment:
   - [Replicate this web page](http://blackrockdigital.github.io/startbootstrap-clean-blog/post.html)  
   - [Completed homework](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson2/homework/)
-  - <details><summary>Click here for a full screen capture</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/homework1/homework_screencapture.png"></details>  
+  - <details><summary>Click here for a full screen capture</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/homework/homework_screencapture.png"></details>  
 
 # Week 2 - INTRO TO JAVASCRIPT
 "An in-depth introduction to the language of the web."  
