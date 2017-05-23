@@ -1,13 +1,15 @@
 # Lambda-School-mini-bootcamp-2
-**"The basics of code, how it works on the web, and what websites are made of."**  
-Start date: May 15, 2017: https://lambdaschool.com/mini-bootcamp/  
-Slack channel: https://lambdaschool.slack.com  
-Lesson archive: https://lambdaschool.com/mini-bootcamp/archive  
-My Codepen: https://codepen.io/mixelpix/  
-My Github: https://github.com/mixelpixel  
-Lambda University: http://www.lambdauniversity.com  
+- Start date: May 15, 2017: https://lambdaschool.com/mini-bootcamp/  
+- Slack channel: https://lambdaschool.slack.com  
+- Lesson archive: https://lambdaschool.com/mini-bootcamp/archive  
+- My Codepen: https://codepen.io/mixelpix/  
+- My Github: https://github.com/mixelpixel  
+- Lambda University: http://www.lambdauniversity.com  
+- miniBootcamp #1: https://docs.google.com/document/d/1qH-AbzE5h1tuAUPlGb6NbDujBJJy-k-WN-2xZ-8cV28/edit#heading=h.t89roya3gxli
+- Pre-coursework: https://lambdaschool.teachable.com/p/pre-bootcamp/
 
 # Week 1 - TEXT EDITORS, HTML AND CSS
+**"The basics of code, how it works on the web, and what websites are made of."**  
 ## Monday, May 15, 2017, Lecture:  
 1. Mini Bootcamp Lesson 1:
   - [LESSON 1: "HTML & CSS - Free Mini Code Bootcamp by LambdaSchool"](https://youtu.be/nLs9I8MRbO0)  
@@ -150,7 +152,7 @@ Lambda University: http://www.lambdauniversity.com
   - <details><summary>Click here for a full screen capture</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/homework/homework_screencapture.png"></details>  
 
 # Week 2 - INTRO TO JAVASCRIPT
-"An in-depth introduction to the language of the web."  
+**"An in-depth introduction to the language of the web."**  
 ## Monday, May 22, 2017, Lecture
 1. Mini Bootcamp Lesson 3:
  - [Lesson 3: "Command Line, Git & Github"](https://youtu.be/dTQDhVChVzg)
@@ -170,7 +172,7 @@ Lambda University: http://www.lambdauniversity.com
  - [Completed homework]()
 
 # Week 3 - INTRO TO JAVASCRIPT
-"Arrays, objects, and Array/Object class methods."  
+**"Arrays, objects, and Array/Object class methods."**  
 ## Monday, May 29, 2017, Lecture
 1. Mini Bootcamp Lesson 5
  - [Lesson 5: ""]()
@@ -188,7 +190,7 @@ Lambda University: http://www.lambdauniversity.com
  - [Completed homework]()
 
 # Week 4 - INTERMEDIATE JAVASCRIPT
-"Prototype, this, closure, and callbacks."  
+**"Prototype, this, closure, and callbacks."**  
 ## Monday, June 5, 2017, Lecture
 1. Mini Bootcamp Lesson 7
  - [Lesson 7: ""]()
