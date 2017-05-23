@@ -124,7 +124,7 @@ Lambda University: http://www.lambdauniversity.com
       <h2>Additional Notes</h2>
       <li><a href="http://stackoverflow.com/a/31032477/5225057">HTML specs, percentage vs. height</a></li>  
       <li><a href="https://www.w3schools.com/tags/tag_meta.asp">HTML meta tags</a></li>
-      <li><a href="https://www.computerhope.com/issues/ch001034.htm">How do I indent or tab text on my web page or in HTML?</li>
+      <li><a href="https://www.computerhope.com/issues/ch001034.htm">How do I indent or tab text on my web page or in HTML?</a></li>
       <li><a href="http://www.theukwebdesigncompany.com/articles/entity-escape-characters.php">HTML Escape Characters: Complete List</a></li>
       <li><b>I cannot recommend strongly enough: DO NOT TAKE NOTES IN HTML!!!!!! XD</b></li>
     </ul></details>  
@@ -151,9 +151,56 @@ Lambda University: http://www.lambdauniversity.com
 
 # Week 2 - INTRO TO JAVASCRIPT
 "An in-depth introduction to the language of the web."  
+## Monday, May 22, 2017, Lecture
+1. Mini Bootcamp Lesson 3:
+ - [Lesson 3: "Command Line, Git & Github"](https://youtu.be/dTQDhVChVzg)
+ - NOTES: command line: pwd/cd/ls etc.
+ - NOTES: git: fork, clone, status, add, commit, push, etc. 
+2. Homework assignment:
+ - [Working with GitHub](https://github.com/austenallred/lswebhomework3)
+ - [Completed homework]()
+ - <details><summary>Click here for the modified Tweet</summary><img src=""></details>  
+
+## Friday, May 26, 2017, Lecture
+1. Mini Bootcamp Lesson 4
+ - [Lesson 4: ""]()
+ - examples, notes...
+2. Homework assignment:
+ - []()
+ - [Completed homework]()
 
 # Week 3 - INTRO TO JAVASCRIPT
 "Arrays, objects, and Array/Object class methods."  
+## Monday, May 29, 2017, Lecture
+1. Mini Bootcamp Lesson 5
+ - [Lesson 5: ""]()
+ - examples, notes...
+2. Homework assignment:
+ - []()
+ - [Completed homework]()
+
+## Friday, June 2, 2017, Lecture
+1. Mini Bootcamp Lesson 6
+ - [Lesson 6: ""]()
+ - examples, notes...
+2. Homework assignment:
+ - []()
+ - [Completed homework]()
 
 # Week 4 - INTERMEDIATE JAVASCRIPT
 "Prototype, this, closure, and callbacks."  
+## Monday, June 5, 2017, Lecture
+1. Mini Bootcamp Lesson 7
+ - [Lesson 7: ""]()
+ - examples, notes...
+2. Homework assignment:
+ - []()
+ - [Completed homework]()
+
+## Friday, June 9, 2017, Lecture
+1. Mini Bootcamp Lesson 8
+ - [Lesson 8: ""]()
+ - examples, notes...
+2. Homework assignment:
+ - []()
+ - [Completed homework]()
