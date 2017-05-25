@@ -11,7 +11,7 @@
 - Pre-coursework: https://lambdaschool.teachable.com/p/pre-bootcamp/  
 - mini JavaScript Bootcamp: http://lambdaschool.com/mini-bootcamp/javascript
 
-# Week 1 - TEXT EDITORS, HTML AND CSS
+# Week 1 - TEXT EDITORS, [HTML AND CSS](https://www.w3.org/standards/webdesign/htmlcss)
 ## **"The basics of code, how it works on the web, and what websites are made of."**  
 ### Monday, May 15, 2017, Lecture:  
 1. Mini Bootcamp Lesson 1: HTML & CSS
