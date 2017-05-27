@@ -178,7 +178,7 @@
  - examples, notes...
 2. Homework assignment:
  - [JavaScript and the DOM](https://github.com/austenallred/lswebhomework4)
- - [Completed homework]()
+ - [Completed homework](#)
 
 # Week 3 - INTRO TO JAVASCRIPT
 ## **"Arrays, objects, and Array/Object class methods."**  
