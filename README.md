@@ -169,8 +169,8 @@
  - NOTES: git: fork, clone, status, add, commit, push, etc.
 2. Homework assignment:
  - [Working with GitHub](https://github.com/austenallred/lswebhomework3)
- - [Completed homework]()
- - <details><summary>Click here for the modified Tweet</summary><img src=""></details>  
+ - [Completed homework](https://github.com/mixelpixel/lswebhomework3/tree/master)
+ - <details><summary>Click here for the modified Tweet</summary><img src="https://github.com/mixelpixel/lswebhomework3/blob/master/Inspect_Element_mods.png"></details>  
 
 ### Friday, May 26, 2017, Lecture
 1. Mini Bootcamp Lesson 4: JavaScript and the DOM (Domain Object Model)
