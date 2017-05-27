@@ -17,7 +17,7 @@
 
 # Week 1 - TEXT EDITORS, [HTML AND CSS](https://www.w3.org/standards/webdesign/htmlcss)
 ##### In addition to w3c, for HTML, also see: https://whatwg.org
-##### HTTP is per w3c & http://ietf.org
+##### HTTP is per [w3c](https://www.w3.org) & http://ietf.org
 ## **"The basics of code, how it works on the web, and what websites are made of."**  
 ### Monday, May 15, 2017, Lecture 1:  
 1. Mini Bootcamp Lesson 1: HTML & CSS
