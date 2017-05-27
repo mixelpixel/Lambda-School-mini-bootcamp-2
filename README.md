@@ -173,11 +173,11 @@
  - <details><summary>Click here for the modified Tweet</summary><img src=""></details>  
 
 ### Friday, May 26, 2017, Lecture
-1. Mini Bootcamp Lesson 4:
- - [LESSON 4]()
+1. Mini Bootcamp Lesson 4: JavaScript and the DOM (Domain Object Model)
+ - [LESSON 4](https://youtu.be/GBNtL_51l5A)
  - examples, notes...
 2. Homework assignment:
- - []()
+ - [JavaScript and the DOM](https://github.com/austenallred/lswebhomework4)
  - [Completed homework]()
 
 # Week 3 - INTRO TO JAVASCRIPT
