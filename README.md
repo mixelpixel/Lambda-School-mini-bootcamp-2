@@ -19,7 +19,7 @@
 ##### In addition to w3c, for HTML, also see: https://whatwg.org
 ##### HTTP is per w3c & http://ietf.org
 ## **"The basics of code, how it works on the web, and what websites are made of."**  
-### Monday, May 15, 2017, Lecture:  
+### Monday, May 15, 2017, Lecture 1:  
 1. Mini Bootcamp Lesson 1: HTML & CSS
   - [LESSON 1](https://youtu.be/nLs9I8MRbO0)  
   - [Lecture 1 example on CodePen.io: "Words"](https://codepen.io/mixelpix/pen/PmxXov)
@@ -149,7 +149,7 @@
     3. [Homework assignment 3 on github](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework3)
       - [Homework assignment 3 on CodePen.io](https://codepen.io/mixelpix/pen/ZKmVGe)<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework3/homework3.png"></details>  
 
-### Friday, May 19, 2017, Lecture:  
+### Friday, May 19, 2017, Lecture 2:  
 1. Mini Bootcamp Lesson 2: Responsive Web Design
   - [LESSON 2](https://youtu.be/oXziWoSD8vQ)
   - [Lesson 2 lecture example on CodePen.io: "Boxes and divs"](https://codepen.io/mixelpix/pen/zwMMVz)
@@ -162,7 +162,7 @@
 
 # Week 2 - INTRO TO JAVASCRIPT
 ## **"An in-depth introduction to the language of the web."**  
-### Monday, May 22, 2017, Lecture
+### Monday, May 22, 2017, Lecture 3
 1. Mini Bootcamp Lesson 3: Command Line, Git & Github
  - [LESSON 3](https://youtu.be/dTQDhVChVzg)
  - NOTES: command line: pwd/cd/ls etc.
@@ -172,7 +172,7 @@
  - [Completed homework](https://github.com/mixelpixel/lswebhomework3/tree/master)
  - <details><summary>Click here for the modified Tweet</summary><img src="https://github.com/mixelpixel/lswebhomework3/blob/master/Inspect_Element_mods.png"></details>  
 
-### Friday, May 26, 2017, Lecture
+### Friday, May 26, 2017, Lecture 4
 1. Mini Bootcamp Lesson 4: JavaScript and the DOM (Domain Object Model)
  - [LESSON 4](https://youtu.be/GBNtL_51l5A)
  - examples, notes...
@@ -182,7 +182,7 @@
 
 # Week 3 - INTRO TO JAVASCRIPT
 ## **"Arrays, objects, and Array/Object class methods."**  
-### Monday, May 29, 2017, Lecture
+### Monday, May 29, 2017, Lecture 5
 1. Mini Bootcamp Lesson 5:
  - [LESSON 5]()
  - examples, notes...
@@ -190,7 +190,7 @@
  - []()
  - [Completed homework]()
 
-### Friday, June 2, 2017, Lecture
+### Friday, June 2, 2017, Lecture 6
 1. Mini Bootcamp Lesson 6:
  - [LESSON 6]()
  - examples, notes...
@@ -200,7 +200,7 @@
 
 # Week 4 - INTERMEDIATE JAVASCRIPT
 ## **"Prototype, this, closure, and callbacks."**  
-### Monday, June 5, 2017, Lecture
+### Monday, June 5, 2017, Lecture 7
 1. Mini Bootcamp Lesson 7:
  - [LESSON 7]()
  - examples, notes...
@@ -208,7 +208,7 @@
  - []()
  - [Completed homework]()
 
-### Friday, June 9, 2017, Lecture
+### Friday, June 9, 2017, Lecture 8
 1. Mini Bootcamp Lesson 8:
  - [LESSON 8]()
  - examples, notes...
