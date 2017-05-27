@@ -10,6 +10,10 @@
 - miniBootcamp #1 (HTTP, Python, Flask, JavaScript): https://docs.google.com/document/d/1qH-AbzE5h1tuAUPlGb6NbDujBJJy-k-WN-2xZ-8cV28/edit#heading=h.t89roya3gxli
 - Pre-coursework: https://lambdaschool.teachable.com/p/pre-bootcamp/  
 - mini JavaScript Bootcamp: http://lambdaschool.com/mini-bootcamp/javascript
+***
+- Additional resources:
+  - ["How browsers work internally" by Tali Garsiel (~30min)](https://vimeo.com/44182484)
+  - ["How Browsers Work: Behind the scenes of modern web browsers" by By Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Resources)
 
 # Week 1 - TEXT EDITORS, [HTML AND CSS](https://www.w3.org/standards/webdesign/htmlcss)
 ##### In addition to w3c, for HTML, also see: https://whatwg.org
@@ -162,14 +166,14 @@
 1. Mini Bootcamp Lesson 3: Command Line, Git & Github
  - [LESSON 3](https://youtu.be/dTQDhVChVzg)
  - NOTES: command line: pwd/cd/ls etc.
- - NOTES: git: fork, clone, status, add, commit, push, etc. 
+ - NOTES: git: fork, clone, status, add, commit, push, etc.
 2. Homework assignment:
  - [Working with GitHub](https://github.com/austenallred/lswebhomework3)
  - [Completed homework]()
  - <details><summary>Click here for the modified Tweet</summary><img src=""></details>  
 
 ### Friday, May 26, 2017, Lecture
-1. Mini Bootcamp Lesson 4: 
+1. Mini Bootcamp Lesson 4:
  - [LESSON 4]()
  - examples, notes...
 2. Homework assignment:
@@ -179,7 +183,7 @@
 # Week 3 - INTRO TO JAVASCRIPT
 ## **"Arrays, objects, and Array/Object class methods."**  
 ### Monday, May 29, 2017, Lecture
-1. Mini Bootcamp Lesson 5: 
+1. Mini Bootcamp Lesson 5:
  - [LESSON 5]()
  - examples, notes...
 2. Homework assignment:
@@ -197,7 +201,7 @@
 # Week 4 - INTERMEDIATE JAVASCRIPT
 ## **"Prototype, this, closure, and callbacks."**  
 ### Monday, June 5, 2017, Lecture
-1. Mini Bootcamp Lesson 7: 
+1. Mini Bootcamp Lesson 7:
  - [LESSON 7]()
  - examples, notes...
 2. Homework assignment:
@@ -205,7 +209,7 @@
  - [Completed homework]()
 
 ### Friday, June 9, 2017, Lecture
-1. Mini Bootcamp Lesson 8: 
+1. Mini Bootcamp Lesson 8:
  - [LESSON 8]()
  - examples, notes...
 2. Homework assignment:
