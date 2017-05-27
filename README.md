@@ -21,7 +21,7 @@
 ## **"The basics of code, how it works on the web, and what websites are made of."**  
 ### Monday, May 15, 2017, Lecture 1:  
 1. Mini Bootcamp Lesson 1: HTML & CSS
-  - [LESSON 1](https://youtu.be/nLs9I8MRbO0)  
+  - [LESSON 1: HTML & CSS](https://youtu.be/nLs9I8MRbO0)  
   - [Lecture 1 example on CodePen.io: "Words"](https://codepen.io/mixelpix/pen/PmxXov)
   - [Lecture 1 example on CodePen.io: "divs"](https://codepen.io/mixelpix/pen/XRyoJg)
     <details><summary>Lecture 1 notes</summary><ul>  
@@ -151,7 +151,7 @@
 
 ### Friday, May 19, 2017, Lecture 2:  
 1. Mini Bootcamp Lesson 2: Responsive Web Design
-  - [LESSON 2](https://youtu.be/oXziWoSD8vQ)
+  - [LESSON 2: Responsive Web Design](https://youtu.be/oXziWoSD8vQ)
   - [Lesson 2 lecture example on CodePen.io: "Boxes and divs"](https://codepen.io/mixelpix/pen/zwMMVz)
   - [Lecture 2 notes](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/README.md)
 
@@ -164,7 +164,7 @@
 ## **"An in-depth introduction to the language of the web."**  
 ### Monday, May 22, 2017, Lecture 3
 1. Mini Bootcamp Lesson 3: Command Line, Git & Github
- - [LESSON 3](https://youtu.be/dTQDhVChVzg)
+ - [LESSON 3: Command Line, Git & Github](https://youtu.be/dTQDhVChVzg)
  - NOTES: command line: pwd/cd/ls etc.
  - NOTES: git: fork, clone, status, add, commit, push, etc.
 2. Homework assignment:
@@ -174,7 +174,7 @@
 
 ### Friday, May 26, 2017, Lecture 4
 1. Mini Bootcamp Lesson 4: JavaScript and the DOM (Domain Object Model)
- - [LESSON 4](https://youtu.be/GBNtL_51l5A)
+ - [LESSON 4: JavaScript and the DOM](https://youtu.be/GBNtL_51l5A)
  - examples, notes...
 2. Homework assignment:
  - [JavaScript and the DOM](https://github.com/austenallred/lswebhomework4)
