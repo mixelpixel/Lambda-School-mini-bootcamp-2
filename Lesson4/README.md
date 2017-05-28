@@ -13,10 +13,17 @@
 
 - Elements in the DOM can be manipulated and iterated over "on the fly" with JavaScript.
 
-### [@3m50s](https://youtu.be/GBNtL_51l5A?t=3m50s) Basic index.html
-- Editing the page content and what it looks like ONLY using JavaScript
+### [@3m50s](https://youtu.be/GBNtL_51l5A?t=3m50s) Linking HTML to JavaScript
 - link to a JavaScript file
   - generally done towards the bottom of the body for performance (so everything else can load first.)
   ```html
   <script src="path_to/script.js"></script>
   ```
+  - Editing the page content and what it looks like ONLY using JavaScript!
+### [@8m21s](https://youtu.be/GBNtL_51l5A?t=8m21s) Changing an HTML elements text per its ID
+- modifying the header tag with the "about header" id, i.e. <h1 id="about_me">
+```js
+document.getElementById('about_header').innerHTML = 'JavaScript About Me'
+```
+### [@15m18s](https://youtu.be/GBNtL_51l5A?t=15m18s) Creating an HTML element and text
+- 
