@@ -176,7 +176,8 @@
 ### Friday, May 26, 2017, Lecture 4
 1. Mini Bootcamp Lesson 4: JavaScript and the DOM (Domain Object Model)
  - [LESSON 4: JavaScript and the DOM](https://youtu.be/GBNtL_51l5A)
- - examples, notes...
+ - examples
+ - [Lesson 4 Notes](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson4/README.md)
 2. Homework assignment:
  - [JavaScript and the DOM](https://github.com/austenallred/lswebhomework4)
  - [Completed homework](#)
