@@ -12,6 +12,7 @@
 </p></details>
 
 - Elements in the DOM can be manipulated and iterated over "on the fly" with JavaScript.
+- You have control over the entire DOM by using JavaScript.
 
 ### [@3m50s](https://youtu.be/GBNtL_51l5A?t=3m50s) Linking HTML to JavaScript
 - link to a JavaScript file
@@ -51,3 +52,4 @@ document.body.appendChild(elem);           // <--- puts it as the LAST item in t
 
 </html>
 ```
+### document.ready function?
