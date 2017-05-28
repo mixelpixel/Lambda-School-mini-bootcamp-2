@@ -57,3 +57,7 @@ document.body.appendChild(elem);           // <--- puts it as the LAST item in t
 - Google is your friend for JavaScript methods
 - e.g. https://www.w3schools.com/jsref for "JavaScript and HTML DOM Reference"
 - "zero'ing out" an element
+- targetting a class:
+```js
+document.querySelector('.someClass').innerHTML = "abcdef"
+```
