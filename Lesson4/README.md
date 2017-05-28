@@ -14,3 +14,7 @@
 - Elements in the DOM can be manipulated and iterated over "on the fly" with JavaScript.
 
 ### [@3m50s](https://youtu.be/GBNtL_51l5A?t=3m50s) Basic index.html
+- Editing the page content and what it looks like ONLY using JavaScript
+- link to a JavaScript file
+  - generally done towards the bottom of the body for performance so everything else loads first.
+  
