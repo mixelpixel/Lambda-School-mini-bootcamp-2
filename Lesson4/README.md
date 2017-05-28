@@ -9,3 +9,5 @@
 ![Document Object Model](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png)
 
 </p></details>
+  - Elements in the DOM can be manipulated and iterated over "on the fly" with JavaScript.
+- [@3m50s](https://youtu.be/GBNtL_51l5A?t=3m50s) Basic index.html
