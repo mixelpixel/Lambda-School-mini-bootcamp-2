@@ -61,3 +61,11 @@ document.body.appendChild(elem);           // <--- puts it as the LAST item in t
 ```js
 document.querySelector('.someClass').innerHTML = "abcdef"
 ```
+```html
+<ul>
+  <li class="someClass">Nickname: <span id="nickname">mixelpix</span>
+  <li>Favorites: <span id="favorites"></span>
+  <li>Hometown: <span id="hometown"></span>
+</ul>
+<div><p>Hello World!</p></div>         <!--    THIS!!!    -->
+</body>
