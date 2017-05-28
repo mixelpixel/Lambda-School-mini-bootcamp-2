@@ -52,4 +52,5 @@ document.body.appendChild(elem);           // <--- puts it as the LAST item in t
 
 </html>
 ```
-### document.ready function?
+### [@20m](https://youtu.be/GBNtL_51l5A?t=20m) document.ready function?
+###
