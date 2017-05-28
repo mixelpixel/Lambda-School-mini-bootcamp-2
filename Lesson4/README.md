@@ -59,7 +59,7 @@ document.body.appendChild(elem);           // <--- puts it as the LAST item in t
 - "zero'ing out" an element
 - targetting a class:
 ```js
-document.querySelector('.someClass').innerHTML = "abcdef"
+document.querySelector('.someClass').innerHTML = "abcdef";
 ```
 ```html
 <ul>
