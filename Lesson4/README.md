@@ -28,5 +28,26 @@ document.getElementById('about_header').innerHTML = 'JavaScript About Me';
 ### [@15m18s](https://youtu.be/GBNtL_51l5A?t=15m18s) Creating an HTML element and text
 - creating a DIV element and some text to go in it:
 ```js
+var elem = document.createElement('div');  // <--- declare a variable that gets an element named DIV
+elem.innerHTML = '<p>Hello World!</p>'     // <--- any HTML
+document.body.appendChild(elem);           // <--- puts it as the LAST item in the BODY container
+```
+- This is EQUIVALENT TO:
+```html
+<html>
+  <head></head>
+  <body>
+    <ul>
+      <li>Nickname: <span id="nickname">mixelpix</span>
+      <li>Favorites: <span id="favorites"></span>
+      <li>Hometown: <span id="hometown"></span>
+    </ul>
 
+    <div><p>Hello World!</p></div>         <!--    THIS!!!    -->
+
+    </body>
+
+    <script src="homework4.js"></script>
+
+</html>
 ```
