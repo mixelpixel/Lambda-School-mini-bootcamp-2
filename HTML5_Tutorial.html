@@ -1,3 +1,6 @@
+<!-- per: http://www.html-5-tutorial.com/ -->
+<!-- made it up to divs -->
+
 <!DOCTYPE html>
 <!-- or <!doctype html> = HTML5
 (but I dunno about <!DOCTYPE/doctype HTML>) -->
@@ -56,6 +59,8 @@ should have an opening <tag> and a closing </tag> -->
     <header>
       <div>
         <a href="">If there's no URL, this link is presumed to be the index (home) page</a>
+        <br>
+        <a href="file:///Users/mixelpix/LambdaSchool/Lambda-School-mini-bootcamp-2/Lesson2/homework/Homework.html">Homework 2</a>
       </div>
     </header>
 
@@ -83,15 +88,56 @@ should have an opening <tag> and a closing </tag> -->
           <li>list item 4</li>
           <li>list item 5</li>
         </ol></p>
-        <p>There's also nested lists</p>
-        <dl>
-          <dt>Term 1</dt>
-            <dd>Definition of Term 1</dd>
-          <dt>Term 2</dt>
-            <dd>Definition of Term 2</dd>
-          <dt>Question...</dt>
-            <dd>Answer...</dd>
-        </dl>
+        <p>There's also nested ordered lists like this:
+          <ol>
+            <li>list item 1</li>
+              <ol><li>list item 1.1</li></ol>
+            <li>list item 2</li>
+              <ol><li>list item 2.1</li></ol>
+            <li>list item 3</li>
+              <ol><li>list item 3.1</li></ol>
+          </ol>
+        </p>
+        <p>...and nested unordered lists like this:
+          <ul>
+            <li>list item 1</li>
+              <ul><li>list item 1.1</li></ul>
+            <li>list item 2</li>
+              <ul><li>list item 2.1</li></ul>
+            <li>list item 3</li>
+              <ul><li>list item 3.1</li></ul>
+          </ul>
+        </p>
+        <p>...and "dictionary" style listings:
+          <dl>
+            <dt>Term 1</dt>
+              <dd>Definition of Term 1</dd>
+            <dt>Term 2</dt>
+              <dd>Definition of Term 2</dd>
+            <dt>Question...</dt>
+              <dd>Answer...</dd>
+          </dl>
+        </p>
+        <p>Basic Row and Column Tables:
+          <table border="2">
+            <th colspan="2">Rows and Columns of DATA! WHOOOPEEEE!!!
+              <tr>
+                <td>Row 1 - Col 1</td>
+                <td>Row 1 - Col 2</td>
+              </tr>
+              <tr>
+                <td>Row 2 - Col 1</td>
+                <td>Row 2 - Col 2</td>
+              </tr>
+            </th>
+          </table>
+        </p>
+        <p>
+          <strong>&lt;strong&gt;</strong> text is seen as more important to web crawlers, spiders and bot for SEO.
+        </p>
+        <p>
+          <b>&lt;b&gt; for bold</b>... not so much. :(
+        </p>
       </div>
     </article>
 
