@@ -67,5 +67,4 @@ document.querySelector('.someClass').innerHTML = "abcdef"
   <li>Favorites: <span id="favorites"></span>
   <li>Hometown: <span id="hometown"></span>
 </ul>
-<div><p>Hello World!</p></div>         <!--    THIS!!!    -->
-</body>
+```
