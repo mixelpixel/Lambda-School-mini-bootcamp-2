@@ -17,4 +17,6 @@
 - Editing the page content and what it looks like ONLY using JavaScript
 - link to a JavaScript file
   - generally done towards the bottom of the body for performance (so everything else can load first.)
-  -
+  ```html
+  <script src="path_to/script.js"></script>
+  ```
