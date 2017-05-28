@@ -69,3 +69,4 @@ document.querySelector('.someClass').innerHTML = "abcdef";
 </ul>
 ```
 - getElement for IDs, getElements for Classes.
+- jQuery vs getElement/s
