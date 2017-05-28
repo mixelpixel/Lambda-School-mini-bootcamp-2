@@ -13,4 +13,4 @@
 
 - Elements in the DOM can be manipulated and iterated over "on the fly" with JavaScript.
 
-- [@3m50s](https://youtu.be/GBNtL_51l5A?t=3m50s) Basic index.html
+### [@3m50s](https://youtu.be/GBNtL_51l5A?t=3m50s) Basic index.html
