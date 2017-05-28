@@ -23,7 +23,10 @@
 ### [@8m21s](https://youtu.be/GBNtL_51l5A?t=8m21s) Changing an HTML elements text per its ID
 - modifying the header tag with the "about header" id, i.e. <h1 id="about_me">
 ```js
-document.getElementById('about_header').innerHTML = 'JavaScript About Me'
+document.getElementById('about_header').innerHTML = 'JavaScript About Me';
 ```
 ### [@15m18s](https://youtu.be/GBNtL_51l5A?t=15m18s) Creating an HTML element and text
-- 
+- creating a DIV element and some text to go in it:
+```js
+
+```
