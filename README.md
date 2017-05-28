@@ -14,6 +14,7 @@
 - Additional resources:
   - ["How browsers work internally" by Tali Garsiel (~30min)](https://vimeo.com/44182484)
   - ["How Browsers Work: Behind the scenes of modern web browsers" by By Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Resources)
+  - [HTML5 Tutorial](http://www.html-5-tutorial.com/)
 
 # Week 1 - TEXT EDITORS, [HTML AND CSS](https://www.w3.org/standards/webdesign/htmlcss)
 ##### In addition to [w3c](https://www.w3.org), for HTML, also see: https://whatwg.org
