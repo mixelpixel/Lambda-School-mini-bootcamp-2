@@ -68,3 +68,4 @@ document.querySelector('.someClass').innerHTML = "abcdef"
   <li>Hometown: <span id="hometown"></span>
 </ul>
 ```
+- getElement for IDs, getElements for Classes.
