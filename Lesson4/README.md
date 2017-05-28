@@ -52,5 +52,7 @@ document.body.appendChild(elem);           // <--- puts it as the LAST item in t
 
 </html>
 ```
-### [@20m](https://youtu.be/GBNtL_51l5A?t=20m) document.ready function?
-###
+### [@20m](https://youtu.be/GBNtL_51l5A?t=20m) Q&A
+- `document.ready` function?
+- Google is your friend for JavaScript methods
+- e.g. https://www.w3schools.com/jsref for "JavaScript and HTML DOM Reference"
