@@ -31,6 +31,8 @@
     - [The Great Escapism (Or: What You Need To Know To Work With Text Within Text)](http://kunststube.net/escapism/)
     - [Handling Unicode Front To Back In A Web App](http://kunststube.net/frontback/)
 ***
+#### EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS!
+***
 # Week 1 - [TEXT EDITORS](https://atom.io), [HTML AND CSS](https://www.w3.org/standards/webdesign/htmlcss)
 ## **"The basics of code, how it works on the web, and what websites are made of."**  
 ##### In addition to [w3c](https://www.w3.org) for CSS & HTML, for HTML, see also: https://whatwg.org
@@ -173,8 +175,12 @@
 
 2. Homework assignment:
   - [Replicate this web page](http://blackrockdigital.github.io/startbootstrap-clean-blog/post.html)  
-  - [Completed homework](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson2/homework/)
-  - <details><summary>Click here for a full screen capture</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/homework/homework_screencapture.png"></details>  
+  - [Completed homework on GitHub](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson2/homework/)
+  - [Completed homework on CodePen](https://codepen.io/mixelpix/pen/bWOKMo)
+
+  <details><summary>Click here for a full screen capture</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/homework/homework_screencapture.png"></details>
+
+
 ***
 # Week 2 - INTRO TO JAVASCRIPT
 ## **"An in-depth introduction to the language of the web."**  
@@ -198,7 +204,8 @@
  - [Lesson 4 Notes](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson4/README.md)
 2. Homework assignment:
  - [JavaScript and the DOM](https://github.com/austenallred/lswebhomework4)
- - [Completed homework](#)
+ - [Completed homework: GitHub](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson4)
+ - [Completed homework: CodePen]{https://codepen.io/mixelpix/pen/LyKGrZ}
 ***
 # Week 3 - INTRO TO JAVASCRIPT
 ## **"Arrays, objects, and Array/Object class methods."**  
