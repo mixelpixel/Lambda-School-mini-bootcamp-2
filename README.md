@@ -161,16 +161,16 @@
 2. Homework assignment:
   - [Replicate the images in HTML and CSS code.](https://github.com/SunJieMing/LS-Web-Intro-I)  
     1. [Homework assignment 1 on github](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework1)
-      - [Homework assignment 1 on CodePen.io](https://codepen.io/mixelpix/pen/gWQZby)<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework1/homework1.png"></details>  
+      - [Homework assignment 1 on CodePen](https://codepen.io/mixelpix/pen/gWQZby)<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework1/homework1.png"></details>  
     2. [Homework assignment 2 on github](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework2)
-      - [Homework assignment 2 on CodePen.io](https://codepen.io/mixelpix/pen/NjEeqP)<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework2/homework2.png"></details>  
+      - [Homework assignment 2 on CodePen](https://codepen.io/mixelpix/pen/NjEeqP)<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework2/homework2.png"></details>  
     3. [Homework assignment 3 on github](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework3)
-      - [Homework assignment 3 on CodePen.io](https://codepen.io/mixelpix/pen/ZKmVGe)<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework3/homework3.png"></details>  
+      - [Homework assignment 3 on CodePen](https://codepen.io/mixelpix/pen/ZKmVGe)<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework3/homework3.png"></details>  
 
 ### Friday, May 19, 2017, Lecture 2:  
 1. Mini Bootcamp Lesson 2: Responsive Web Design
   - [LESSON 2: Responsive Web Design](https://youtu.be/oXziWoSD8vQ)
-  - [Lesson 2 lecture example on CodePen.io: "Boxes and divs"](https://codepen.io/mixelpix/pen/zwMMVz)
+  - [Lesson 2 lecture example on CodePen: "Boxes and divs"](https://codepen.io/mixelpix/pen/zwMMVz)
   - [Lecture 2 notes](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/README.md)
 
 2. Homework assignment:
@@ -205,7 +205,7 @@
 2. Homework assignment:
  - [JavaScript and the DOM](https://github.com/austenallred/lswebhomework4)
  - [Completed homework: GitHub](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson4)
- - [Completed homework: CodePen]{https://codepen.io/mixelpix/pen/LyKGrZ}
+ - [Completed homework: CodePen](https://codepen.io/mixelpix/pen/LyKGrZ)
 ***
 # Week 3 - INTRO TO JAVASCRIPT
 ## **"Arrays, objects, and Array/Object class methods."**  
