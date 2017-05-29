@@ -12,5 +12,13 @@
 }*/
 
 #nickname:after {
-  content: 'My CSS nickname is Sea Ess Ess Trick';
+  content: 'My CSS nickname is Sea Ess Ess Trick.';
+}
+
+#favorites:after {
+  content: 'My dog, "Lucy", analytical philosophy, bass guitar, Korean food.';
+}
+
+#hometown:after {
+  content: 'Kailua, HI.';
 }
