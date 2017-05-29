@@ -10,3 +10,7 @@
 /*body {
   font-family: sans-serif;
 }*/
+
+#nickname:after {
+  content: 'My CSS nickname is Sea Ess Ess Trick';
+}
