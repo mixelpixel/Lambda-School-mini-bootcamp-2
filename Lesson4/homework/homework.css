@@ -37,3 +37,11 @@
 /*.listitem {
   color: #ff0000;
 }*/
+
+img {
+   width: 100%;
+   max-width: 100%;
+   height: auto;
+   transform: rotate(90deg);
+   padding-top: 150px;
+}
