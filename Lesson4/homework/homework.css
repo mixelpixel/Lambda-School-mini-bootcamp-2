@@ -27,7 +27,7 @@
   color: #ff0000;
 }*/
 
-/*li {
-  background-color: red;
+li {
+  background-color: blue; /* w3c compliance: https://www.w3schools.com/css/css_text.asp */
   color: red;
-}*/
+}
