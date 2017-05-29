@@ -17,7 +17,18 @@ document.getElementById('hometown').innerHTML = 'JavaScript says it\'s, "Kailua,
 // Extra Credit: Iterate through each li and change the class to "listitem".
 // Add a style tag that sets a rule for "listitem" to make the color red.
 
+var allListItems = document.getElementsByTagName('li');
+console.log(allListItems)
 
+// allListItems.forEach(function (item, i) {
+//   item[i].className = 'listitem';
+// });
+
+// for (var i = 0; i < allListItems.length; i++) {
+//   allListItems[i].className = 'listitem';
+// };
+//
+// document.getElementsByClassName('listitem').style.color = '#ff0000';
 
 // Extra Credit: Create a new img element and set its src attribute to a picture of you.
 // Append that element to the page.
