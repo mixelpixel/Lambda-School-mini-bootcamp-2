@@ -28,7 +28,14 @@ for (var i = 0; i < allListItems.length; i++) {
   allListItems[i].className = 'listitem';
 };
 
-// document.getElementsByClassName('listitem').style.color = '#ff0000';
+var allListItemsByClass = document.getElementsByClassName('listitem');
+console.log(allListItemsByClass);
+
+for (var i = 0; i < allListItemsByClass.length; i++) {
+  allListItemsByClass[i].style.color = '#ff0000';
+};
+// x.style.color = '#ff0000';
+// document.getElementsByClassName('listitem').style.color = '#0000ff';
 
 // Extra Credit: Create a new img element and set its src attribute to a picture of you.
 // Append that element to the page.
