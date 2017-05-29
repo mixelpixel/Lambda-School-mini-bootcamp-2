@@ -26,7 +26,7 @@ for (var i = 0; i < allListItems.length; i++) {
 
 var allListItemsByClass = document.getElementsByClassName('listitem');
 // console.log(allListItemsByClass);
-// w3c compliance requires b.g. color be declared with (?) text color: 
+// w3c compliance requires b.g. color be declared with (?) text color:
 // https://www.w3schools.com/css/css_text.asp
 for (var i = 0; i < allListItemsByClass.length; i++) {
   allListItemsByClass[i].style.color = '#ff0000';
