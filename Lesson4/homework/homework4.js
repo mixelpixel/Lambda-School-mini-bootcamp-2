@@ -24,10 +24,10 @@ console.log(allListItems)
 //   item[i].className = 'listitem';
 // });
 
-// for (var i = 0; i < allListItems.length; i++) {
-//   allListItems[i].className = 'listitem';
-// };
-//
+for (var i = 0; i < allListItems.length; i++) {
+  allListItems[i].className = 'listitem';
+};
+
 // document.getElementsByClassName('listitem').style.color = '#ff0000';
 
 // Extra Credit: Create a new img element and set its src attribute to a picture of you.

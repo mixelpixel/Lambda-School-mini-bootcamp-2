@@ -27,7 +27,13 @@
   color: #ff0000;
 }*/
 
-li {
-  background-color: blue; /* w3c compliance: https://www.w3schools.com/css/css_text.asp */
-  color: red;
+/*li {*/
+  /* w3c compliance requires b.g. color be declared with (?) text color: */
+  /* https://www.w3schools.com/css/css_text.asp */
+  /*background-color: #0000ff;
+  color: #ff0000;
+}*/
+
+.listitem {
+  color: #ff0000;
 }
