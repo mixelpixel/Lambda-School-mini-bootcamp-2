@@ -12,13 +12,15 @@
 - mini JavaScript Bootcamp: http://lambdaschool.com/mini-bootcamp/javascript
 ***
 - Additional resources:
-  - ["How browsers work internally" by Tali Garsiel (~30min)](https://vimeo.com/44182484)
-  - ["How Browsers Work: Behind the scenes of modern web browsers" by By Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Resources)
-  - [HTML5 Tutorial](http://www.html-5-tutorial.com/)
-  - `git` & GitHub tutorials:
+  - **Web Browsers:**
+    - ["How browsers work internally" by Tali Garsiel (~30min)](https://vimeo.com/44182484)
+    - ["How Browsers Work: Behind the scenes of modern web browsers" by By Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Resources)
+  - **HTML 5:**
+    - [HTML5 Tutorial](http://www.html-5-tutorial.com/)
+  - **`git` & GitHub tutorials:**
     - https://try.github.io/
     - http://learngitbranching.js.org
-  - Text Encoding
+  - **Text Encoding:**
     - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
     - [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
     - [The Great Escapism (Or: What You Need To Know To Work With Text Within Text)](http://kunststube.net/escapism/)
