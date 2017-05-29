@@ -15,7 +15,6 @@ document.getElementById('favorites').innerHTML = 'JavaScript says it\'s, "Korean
 document.getElementById('hometown').innerHTML = 'JavaScript says it\'s, "Kailua, HI."';
 
 // Extra Credit 1: Iterate through each li and change the class to "listitem".
-
 var allListItems = document.getElementsByTagName('li');
 // console.log(allListItems)
 for (var i = 0; i < allListItems.length; i++) {
@@ -23,7 +22,6 @@ for (var i = 0; i < allListItems.length; i++) {
 };
 
 // Extra Credit 1: Add a style tag that sets a rule for "listitem" to make the color red.
-
 var allListItemsByClass = document.getElementsByClassName('listitem');
 // console.log(allListItemsByClass);
 // w3c compliance requires b.g. color be declared with (?) text color:
