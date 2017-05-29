@@ -1,15 +1,17 @@
 # Lambda-School-mini-bootcamp-2
-- Start date: May 15, 2017: https://lambdaschool.com/mini-bootcamp/  
-- Slack channel: https://lambdaschool.slack.com  
-- Lesson archive: https://lambdaschool.com/mini-bootcamp/archive  
+### **Start date: May 15, 2017:**
+- https://lambdaschool.com/mini-bootcamp/  
+- [Slack channel](https://lambdaschool.slack.com)
+- [Lesson archive](https://lambdaschool.com/mini-bootcamp/archive)
 ***
-- My Codepen: https://codepen.io/mixelpix/  
-- My Github: https://github.com/mixelpixel  
-  - To do: https://pages.github.com ...  
-- Lambda University: http://www.lambdauniversity.com  
-- miniBootcamp #1 (HTTP, Python, Flask, JavaScript): https://docs.google.com/document/d/1qH-AbzE5h1tuAUPlGb6NbDujBJJy-k-WN-2xZ-8cV28/edit#heading=h.t89roya3gxli
-- Pre-coursework: https://lambdaschool.teachable.com/p/pre-bootcamp/  
-- mini JavaScript Bootcamp: http://lambdaschool.com/mini-bootcamp/javascript
+- [My Codepen](https://codepen.io/mixelpix/)
+- [My Github](https://github.com/mixelpixel)
+  - GitHub page hosting: https://pages.github.com
+- [Lambda University](http://www.lambdauniversity.com  )
+- [mini Python Bootcamp](http://lambdaschool.com/mini-bootcamp/python)
+  - [Pre-coursework](https://lambdaschool.teachable.com/p/pre-bootcamp/)
+  - [miniBootcamp #1 (HTTP, Python, Flask, JavaScript)](https://docs.google.com/document/d/1qH-AbzE5h1tuAUPlGb6NbDujBJJy-k-WN-2xZ-8cV28/edit#heading=h.t89roya3gxli)
+- [mini JavaScript Bootcamp](http://lambdaschool.com/mini-bootcamp/javascript)
 ***
 - Additional resources:
   - **Web Browsers:**
