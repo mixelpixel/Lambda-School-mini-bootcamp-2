@@ -30,10 +30,10 @@
     - [The Great Escapism (Or: What You Need To Know To Work With Text Within Text)](http://kunststube.net/escapism/)
     - [Handling Unicode Front To Back In A Web App](http://kunststube.net/frontback/)
 ***
-# Week 1 - TEXT EDITORS, [HTML AND CSS](https://www.w3.org/standards/webdesign/htmlcss)
-##### In addition to [w3c](https://www.w3.org), for HTML, also see: https://whatwg.org
-##### HTTP is per [w3c](https://www.w3.org) & http://ietf.org
+# Week 1 - [TEXT EDITORS](https://atom.io), [HTML AND CSS](https://www.w3.org/standards/webdesign/htmlcss)
 ## **"The basics of code, how it works on the web, and what websites are made of."**  
+##### In addition to [w3c](https://www.w3.org) for CSS & HTML, for HTML, see also: https://whatwg.org
+##### HTTP is per [w3c](https://www.w3.org) & http://ietf.org
 ### Monday, May 15, 2017, Lecture 1:  
 1. Mini Bootcamp Lesson 1: HTML & CSS
   - [LESSON 1: HTML & CSS](https://youtu.be/nLs9I8MRbO0)  
@@ -177,8 +177,11 @@
 ***
 # Week 2 - INTRO TO JAVASCRIPT
 ## **"An in-depth introduction to the language of the web."**  
+##### JavaScript maintained by [Mozilla](https://developer.mozilla.org/en/docs/Web/JavaScript) & [ECMA](https://www.ecma-international.org/ecma-262/7.0/#sec-property-accessors-runtime-semantics-evaluation)
+##### [`git`](https://git-scm.com/downloads), [GitHub](https://github.com) & [Atom](https://atom.io)
+- [JavaScript and ECMA Specification](http://www.w3resource.com/javascript/introduction/ECMA-and-javascript.php)
 ### Monday, May 22, 2017, Lecture 3
-1. Mini Bootcamp Lesson 3: Command Line, Git & Github
+1. Mini Bootcamp Lesson 3: Command Line, `git` & Github
  - [LESSON 3: Command Line, Git & Github](https://youtu.be/dTQDhVChVzg)
  - NOTES: command line: pwd/cd/ls etc.
  - NOTES: git: fork, clone, status, add, commit, push, etc.
