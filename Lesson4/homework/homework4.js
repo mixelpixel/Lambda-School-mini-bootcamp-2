@@ -14,28 +14,27 @@ document.getElementById('favorites').innerHTML = 'JavaScript says it\'s, "Korean
 // 6. Add your hometown
 document.getElementById('hometown').innerHTML = 'JavaScript says it\'s, "Kailua, HI."';
 
-// Extra Credit: Iterate through each li and change the class to "listitem".
-// Add a style tag that sets a rule for "listitem" to make the color red.
+// Extra Credit 1: Iterate through each li and change the class to "listitem".
 
 var allListItems = document.getElementsByTagName('li');
-console.log(allListItems)
-
-// allListItems.forEach(function (item, i) {
-//   item[i].className = 'listitem';
-// });
-
+// console.log(allListItems)
 for (var i = 0; i < allListItems.length; i++) {
   allListItems[i].className = 'listitem';
 };
 
-var allListItemsByClass = document.getElementsByClassName('listitem');
-console.log(allListItemsByClass);
+// Extra Credit 1: Add a style tag that sets a rule for "listitem" to make the color red.
 
+var allListItemsByClass = document.getElementsByClassName('listitem');
+// console.log(allListItemsByClass);
+// w3c compliance requires b.g. color be declared with (?) text color: 
+// https://www.w3schools.com/css/css_text.asp
 for (var i = 0; i < allListItemsByClass.length; i++) {
   allListItemsByClass[i].style.color = '#ff0000';
+  allListItemsByClass[i].style.backgroundColor = '#00ff00';
 };
-// x.style.color = '#ff0000';
-// document.getElementsByClassName('listitem').style.color = '#0000ff';
 
-// Extra Credit: Create a new img element and set its src attribute to a picture of you.
-// Append that element to the page.
+// Extra Credit 2: Create a new img element and set its src attribute to a picture of you.
+
+
+
+// Extra Credit 2: Append that element to the page.
