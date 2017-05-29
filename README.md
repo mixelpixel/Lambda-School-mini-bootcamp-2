@@ -29,7 +29,7 @@
       - Encoding vs. Unicode "Code Points": _"Unicode first and foremost defines a table of code points for characters. That's a fancy way of saying "65 stands for A, 66 stands for B and 9,731 stands for ☃" (seriously, it does). How these code points are actually encoded into bits is a different topic." ... "Characters are referred to by their "Unicode code point". Unicode code points are written in hexadecimal (to keep the numbers shorter), preceded by a "U+" (that's just what they do, it has no other meaning than "this is a Unicode code point")."_
     - [The Great Escapism (Or: What You Need To Know To Work With Text Within Text)](http://kunststube.net/escapism/)
     - [Handling Unicode Front To Back In A Web App](http://kunststube.net/frontback/)
-
+***
 # Week 1 - TEXT EDITORS, [HTML AND CSS](https://www.w3.org/standards/webdesign/htmlcss)
 ##### In addition to [w3c](https://www.w3.org), for HTML, also see: https://whatwg.org
 ##### HTTP is per [w3c](https://www.w3.org) & http://ietf.org
@@ -174,7 +174,7 @@
   - [Replicate this web page](http://blackrockdigital.github.io/startbootstrap-clean-blog/post.html)  
   - [Completed homework](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson2/homework/)
   - <details><summary>Click here for a full screen capture</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/homework/homework_screencapture.png"></details>  
-
+***
 # Week 2 - INTRO TO JAVASCRIPT
 ## **"An in-depth introduction to the language of the web."**  
 ### Monday, May 22, 2017, Lecture 3
@@ -195,7 +195,7 @@
 2. Homework assignment:
  - [JavaScript and the DOM](https://github.com/austenallred/lswebhomework4)
  - [Completed homework](#)
-
+***
 # Week 3 - INTRO TO JAVASCRIPT
 ## **"Arrays, objects, and Array/Object class methods."**  
 ### Monday, May 29, 2017, Lecture 5
@@ -213,7 +213,7 @@
 2. Homework assignment:
  - []()
  - [Completed homework]()
-
+***
 # Week 4 - INTERMEDIATE JAVASCRIPT
 ## **"Prototype, this, closure, and callbacks."**  
 ### Monday, June 5, 2017, Lecture 7
@@ -231,5 +231,5 @@
 2. Homework assignment:
  - []()
  - [Completed homework]()
-
+***
 fin.
