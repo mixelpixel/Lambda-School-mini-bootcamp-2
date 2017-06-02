@@ -1,8 +1,8 @@
+***
+##### !EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS!
+***
 # Lambda-School-mini-bootcamp-2
 ### **Start date: May 15, 2017:**
-***
-##### EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS!
-***
 
 <details><summary>Course Resources</summary><p>
 
