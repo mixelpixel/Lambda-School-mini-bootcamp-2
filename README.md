@@ -36,9 +36,7 @@
 
     - [The Great Escapism (Or: What You Need To Know To Work With Text Within Text)](http://kunststube.net/escapism/)
     - [Handling Unicode Front To Back In A Web App](http://kunststube.net/frontback/)
-***
-#### EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS!
-***
+
 # Week 1 - [TEXT EDITORS](https://atom.io), [HTML AND CSS](https://www.w3.org/standards/webdesign/htmlcss)
 ## **"The basics of code, how it works on the web, and what websites are made of."**  
 ##### In addition to [w3c](https://www.w3.org) for CSS & HTML, for HTML, see also: https://whatwg.org
