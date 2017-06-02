@@ -1,3 +1,6 @@
+***
+#### EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS!
+***
 # Lambda-School-mini-bootcamp-2
 ### **Start date: May 15, 2017:**
 - https://lambdaschool.com/mini-bootcamp/  
@@ -29,7 +32,8 @@
       - put the `<meta charset = 'utf-8'>` head tag FIRST!
     - [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
       - Encoding vs. Unicode "Code Points":
-      > _"Unicode first and foremost defines a table of code points for characters. That's a fancy way of saying "65 stands for A, 66 stands for B and 9,731 stands for ☃" (seriously, it does). How these code points are actually encoded into bits is a different topic." ... "Characters are referred to by their "Unicode code point". Unicode code points are written in hexadecimal (to keep the numbers shorter), preceded by a "U+" (that's just what they do, it has no other meaning than "this is a Unicode code point")."_
+      > _"Unicode first and foremost defines a table of code points for characters. That's a fancy way of saying "65 stands for A, 66 stands for B and 9,731 stands for ☃" (seriously, it does). How these code points are actually encoded into bits is a different topic." ... "Characters are referred to by their "Unicode code point". Unicode code points are written in hexadecimal (to keep the numbers shorter), preceded by a "U+" (that's just what they do, it has no other meaning than "this is a Unicode code point")."_  
+
     - [The Great Escapism (Or: What You Need To Know To Work With Text Within Text)](http://kunststube.net/escapism/)
     - [Handling Unicode Front To Back In A Web App](http://kunststube.net/frontback/)
 ***
@@ -211,17 +215,9 @@
 ***
 # Week 3 - INTRO TO JAVASCRIPT
 ## **"Arrays, objects, and Array/Object class methods."**  
-### Monday, May 29, 2017, Lecture 5
-1. Mini Bootcamp Lesson 5:
- - [LESSON 5]()
- - examples, notes...
-2. Homework assignment:
- - []()
- - [Completed homework]()
-
-### Friday, June 2, 2017, Lecture 6
-1. Mini Bootcamp Lesson 6:
- - [LESSON 6]()
+### Friday, June 2, 2017, Lecture 5
+1. Mini Bootcamp Lesson 5: Statements, Variables, and For Loops from JavaScript
+ - [LESSON 5](https://youtu.be/IIhPlMa4zl0)
  - examples, notes...
 2. Homework assignment:
  - []()
@@ -229,17 +225,17 @@
 ***
 # Week 4 - INTERMEDIATE JAVASCRIPT
 ## **"Prototype, this, closure, and callbacks."**  
-### Monday, June 5, 2017, Lecture 7
-1. Mini Bootcamp Lesson 7:
- - [LESSON 7]()
+### Monday, June 5, 2017, Lecture 6
+1. Mini Bootcamp Lesson 6:
+ - [LESSON 6]()
  - examples, notes...
 2. Homework assignment:
  - []()
  - [Completed homework]()
 
-### Friday, June 9, 2017, Lecture 8
-1. Mini Bootcamp Lesson 8:
- - [LESSON 8]()
+### Friday, June 9, 2017, Lecture 7
+1. Mini Bootcamp Lesson 7:
+ - [LESSON 7]()
  - examples, notes...
 2. Homework assignment:
  - []()
