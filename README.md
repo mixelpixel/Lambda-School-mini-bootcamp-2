@@ -1,8 +1,11 @@
-***
-#### EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS!
-***
 # Lambda-School-mini-bootcamp-2
 ### **Start date: May 15, 2017:**
+***
+##### EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS!
+***
+
+<details><summary>Course Resources</summary><p>
+
 - https://lambdaschool.com/mini-bootcamp/  
 - [Slack channel](https://lambdaschool.slack.com)
 - [Lesson archive](https://lambdaschool.com/mini-bootcamp/archive)
@@ -15,27 +18,32 @@
   - [Pre-coursework](https://lambdaschool.teachable.com/p/pre-bootcamp/)
   - [miniBootcamp #1 (HTTP, Python, Flask, JavaScript)](https://docs.google.com/document/d/1qH-AbzE5h1tuAUPlGb6NbDujBJJy-k-WN-2xZ-8cV28/edit#heading=h.t89roya3gxli)
 - [mini JavaScript Bootcamp](http://lambdaschool.com/mini-bootcamp/javascript)
-***
-- Additional resources:
-  - **Web Browsers:**
-    - ["How browsers work internally" by Tali Garsiel (~30min)](https://vimeo.com/44182484)
-    - ["How Browsers Work: Behind the scenes of modern web browsers" by By Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Resources)
-  - **HTML 5:**
-    - [HTML5 Tutorial & SEO considerations](http://www.html-5-tutorial.com/)
-  - **`git` & GitHub tutorials:**
-    - https://try.github.io/
-    - http://learngitbranching.js.org
-    - http://ohshitgit.com
-  - **Text Encoding and Unicode:**
-    - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
-      - http://www.unicode.org
-      - put the `<meta charset = 'utf-8'>` head tag FIRST!
-    - [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
-      - Encoding vs. Unicode "Code Points":
-      > _"Unicode first and foremost defines a table of code points for characters. That's a fancy way of saying "65 stands for A, 66 stands for B and 9,731 stands for ☃" (seriously, it does). How these code points are actually encoded into bits is a different topic." ... "Characters are referred to by their "Unicode code point". Unicode code points are written in hexadecimal (to keep the numbers shorter), preceded by a "U+" (that's just what they do, it has no other meaning than "this is a Unicode code point")."_  
 
-    - [The Great Escapism (Or: What You Need To Know To Work With Text Within Text)](http://kunststube.net/escapism/)
-    - [Handling Unicode Front To Back In A Web App](http://kunststube.net/frontback/)
+</p></details>
+
+<details><summary>Additional resources</summary><p>
+
+- **Web Browsers:**
+  - ["How browsers work internally" by Tali Garsiel (~30min)](https://vimeo.com/44182484)
+  - ["How Browsers Work: Behind the scenes of modern web browsers" by By Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Resources)
+- **HTML 5:**
+  - [HTML5 Tutorial & SEO considerations](http://www.html-5-tutorial.com/)
+- **`git` & GitHub tutorials:**
+  - https://try.github.io/
+  - http://learngitbranching.js.org
+  - http://ohshitgit.com
+- **Text Encoding and Unicode:**
+  - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+    - http://www.unicode.org
+    - put the `<meta charset = 'utf-8'>` head tag FIRST!
+  - [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
+    - Encoding vs. Unicode "Code Points":
+    > _"Unicode first and foremost defines a table of code points for characters. That's a fancy way of saying "65 stands for A, 66 stands for B and 9,731 stands for ☃" (seriously, it does). How these code points are actually encoded into bits is a different topic." ... "Characters are referred to by their "Unicode code point". Unicode code points are written in hexadecimal (to keep the numbers shorter), preceded by a "U+" (that's just what they do, it has no other meaning than "this is a Unicode code point")."_  
+
+  - [The Great Escapism (Or: What You Need To Know To Work With Text Within Text)](http://kunststube.net/escapism/)
+  - [Handling Unicode Front To Back In A Web App](http://kunststube.net/frontback/)
+
+</p></details>
 
 # Week 1 - [TEXT EDITORS](https://atom.io), [HTML AND CSS](https://www.w3.org/standards/webdesign/htmlcss)
 ## **"The basics of code, how it works on the web, and what websites are made of."**  
