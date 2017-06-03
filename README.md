@@ -222,7 +222,7 @@
 ## **"Arrays, objects, and Array/Object class methods."**  
 ### Friday, June 2, 2017, Lecture 5
 1. Mini Bootcamp Lesson 5: Statements, Variables, and For Loops from JavaScript
- - [LESSON 5](https://youtu.be/IIhPlMa4zl0)
+ - [LESSON 5](https://youtu.be/UwNMelsm28Y)
  - examples, notes...
 2. Homework assignment:
  - []()

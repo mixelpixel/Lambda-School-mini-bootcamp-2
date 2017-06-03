@@ -2,7 +2,7 @@
 #### EASTER EGGS: Click on the ▶︎ black ▶︎ triangles ▶︎ to reveal the EASTER EGGS!
 ***
 # Lecture 5 Notes - Statements, Variables, and For Loops from JavaScript
-## [@?m??s](https://youtu.be/IIhPlMa4zl0?t=?m??s) LECTURE STARTS
+## [@?m??s](https://youtu.be/UwNMelsm28Y?t=?m??s) LECTURE STARTS
 ### **???**
 
 <details><summary><strong>A: Document Object Model</strong></summary><p>
@@ -15,6 +15,6 @@
 - Variables
 - For Loops
 
-### [@?m??s](https://youtu.be/IIhPlMa4zl0?t=?m??s) ???
+### [@?m??s](https://youtu.be/UwNMelsm28Y?t=?m??s) ???
 - Something
   - sub-something
