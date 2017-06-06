@@ -7,3 +7,7 @@
 - HOISTING: https://lambdaschool.com/javascript-hoisting-explained
 - SCOPE:
 - HOMEWORK: install node and npm (already done)
+
+- Closure and For Loops: https://lambdaschool.com/closure-and-for-loops
+
+- Closures: https://lambdaschool.com/javascript-closures-explained
