@@ -234,7 +234,7 @@
 ### Monday, June 5, 2017, Lecture 6
 1. Mini Bootcamp Lesson 6: Functions, Parameters, Arguments
  - [LESSON 6](https://youtu.be/WmFRlpd1GTM)
- - Functions, Parameters, Arguments, Scope
+ - [Lesson 6 notes](Lesson6)
 2. Homework assignment:
  - [npm tests](https://github.com/austenallred/lswebhomework6)
  - [Completed homework: GitHub]()
