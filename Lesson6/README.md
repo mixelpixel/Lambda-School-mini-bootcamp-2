@@ -4,6 +4,6 @@
 - FUNCTIONS:
 - PARAMETERS:
 - ARGUMENTS:
-- HOISTING:
+- HOISTING: https://lambdaschool.com/javascript-hoisting-explained
 - SCOPE:
 - HOMEWORK: install node and npm (already done)
