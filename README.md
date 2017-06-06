@@ -225,17 +225,18 @@
  - [LESSON 5](https://youtu.be/UwNMelsm28Y)
 2. Homework assignment:
  - [Fizz Buzz](https://github.com/austenallred/lswebhomework5)
- - [Completed homework]()
+ - [Completed homework: GitHub](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson5)
+ - [Completed homework: CodePen](https://codepen.io/mixelpix/pen/NgWaMz)
 ***
 # Week 4 - INTERMEDIATE JAVASCRIPT
 ## **"Prototype, this, closure, and callbacks."**  
 ### Monday, June 5, 2017, Lecture 6
-1. Mini Bootcamp Lesson 6:
- - [LESSON 6]()
- - examples, notes...
+1. Mini Bootcamp Lesson 6: Functions, Parameters, Arguments
+ - [LESSON 6](https://youtu.be/WmFRlpd1GTM)
+ - Functions, Parameters, Arguments, Scope
 2. Homework assignment:
- - []()
- - [Completed homework]()
+ - [npm tests](https://github.com/austenallred/lswebhomework6)
+ - [Completed homework: GitHub]()
 
 ### Friday, June 9, 2017, Lecture 7
 1. Mini Bootcamp Lesson 7:
