@@ -183,7 +183,7 @@
 1. Mini Bootcamp Lesson 2: Responsive Web Design
   - [LESSON 2: Responsive Web Design](https://youtu.be/oXziWoSD8vQ)
   - [Lesson 2 lecture example on CodePen: "Boxes and divs"](https://codepen.io/mixelpix/pen/zwMMVz)
-  - [Lecture 2 notes](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/README.md)
+  - [Lecture 2 notes](Lesson2)
 
 2. Homework assignment:
   - [Replicate this web page](http://blackrockdigital.github.io/startbootstrap-clean-blog/post.html)  
@@ -212,7 +212,7 @@
 ### Friday, May 26, 2017, Lecture 4
 1. Mini Bootcamp Lesson 4: JavaScript and the DOM (Domain Object Model)
  - [LESSON 4: JavaScript and the DOM](https://youtu.be/GBNtL_51l5A)
- - [Lesson 4 Notes](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson4/README.md)
+ - [Lesson 4 Notes](Lesson4)
 2. Homework assignment:
  - [JavaScript and the DOM](https://github.com/austenallred/lswebhomework4)
  - [Completed homework: GitHub](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson4)
