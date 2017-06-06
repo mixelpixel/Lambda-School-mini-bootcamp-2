@@ -1,4 +1,4 @@
-# Lecture 6 Notes - Functions, Parameters, Arguments
+# Lecture 6 Notes - JavaScript Functions, Parameters, Arguments
 ## [@?m??s](https://youtu.be/WmFRlpd1GTM?t=?m??s) LECTURE STARTS
 
 - FUNCTIONS:
