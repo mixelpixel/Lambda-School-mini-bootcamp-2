@@ -49,6 +49,7 @@ function add(x, y) {
 
 function subtract(x, y) {
   //subtract y from x and return the value
+  return x - y;
 }
 
 function divide(x, y) {
