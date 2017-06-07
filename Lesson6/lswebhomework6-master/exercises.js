@@ -21,6 +21,9 @@ function areSameLength(str1, str2) {
 function areEqual(x, y) {
   //return true if x and y are the same
   //otherwise return false
+  if ( x === y) {
+    return true;
+  } else { return false; }
 }
 
 function lessThanNinety(num) {
