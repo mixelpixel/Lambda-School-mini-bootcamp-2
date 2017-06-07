@@ -108,6 +108,7 @@ function cube(num) {
 
 function raiseToPower(num, exponent) {
   //raise num to whatever power is passed in as exponent
+  return Math.pow(num, exponent);
 }
 
 function roundNumber(num) {
