@@ -79,7 +79,9 @@ for (var i = 0; i < 100; i++) {
 
 
 ## [@22m48s](https://youtu.be/WmFRlpd1GTM?t=22m48s) SCOPE
--
+- global variables are outside of functions and available to all functions within the program
+- local variables are inside functions and only available to the function
+
   ```js
   var sayHello = function() = {
     var greeting = 'hello'; // <--- 'greeting' ONLY available within the SCOPE of the sayHello function
@@ -88,11 +90,11 @@ for (var i = 0; i < 100; i++) {
 
   sayHello(); // <--- alerts with 'hello'
   console.log(greeting); // <--- scope out of range error
-
   ```
 
-## [@?m?s](https://youtu.be/WmFRlpd1GTM?t=?m?s) HOMEWORK
+## [@27m7s](https://youtu.be/WmFRlpd1GTM?t=27m7s) [HOMEWORK](https://github.com/austenallred/lswebhomework6)
 - install node and npm (already done)
+- basically a repeat of the homework from the JS mini Boot Camp.
 
 ## [@?m?s](https://youtu.be/WmFRlpd1GTM?t=?m?s) CLOSURE AND FOR LOOPS
 - https://lambdaschool.com/closure-and-for-loops

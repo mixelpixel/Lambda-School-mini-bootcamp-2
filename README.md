@@ -236,7 +236,7 @@
  - [LESSON 6](https://youtu.be/WmFRlpd1GTM)
  - [Lesson 6 notes](Lesson6)
 2. Homework assignment:
- - [npm tests](https://github.com/austenallred/lswebhomework6)
+ - [npm tests, etc.](https://github.com/austenallred/lswebhomework6)
  - [Completed homework: GitHub]()
 
 ### Friday, June 9, 2017, Lecture 7
