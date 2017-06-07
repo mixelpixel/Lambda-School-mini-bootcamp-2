@@ -44,6 +44,7 @@ function greaterThanFifty(num) {
 
 function add(x, y) {
   //add x and y together and return the value
+  return x + y;
 }
 
 function subtract(x, y) {
