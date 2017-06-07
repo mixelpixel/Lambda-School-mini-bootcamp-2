@@ -113,6 +113,7 @@ function raiseToPower(num, exponent) {
 
 function roundNumber(num) {
   //round num and return it
+  return Math.round(num);
 }
 
 function roundUp(num) {
