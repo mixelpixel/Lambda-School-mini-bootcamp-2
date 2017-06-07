@@ -13,6 +13,9 @@ function subtractFive(num) {
 function areSameLength(str1, str2) {
   //return true if the two strings have the same length
   //otherwise return false
+  if ( str1.length() === str2.length() ) {
+    return true;
+  } else { return false; };
 }
 
 function areEqual(x, y) {
