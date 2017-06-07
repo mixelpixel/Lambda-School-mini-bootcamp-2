@@ -96,6 +96,10 @@ for (var i = 0; i < 100; i++) {
 - install node and npm (already done)
 - basically a repeat of the homework from the JS mini Boot Camp.
 
+## [@33m50s](https://youtu.be/WmFRlpd1GTM?t=33m50s) RETURN
+- vs. undefined
+- what the function and program return to memory.
+
 ## [@?m?s](https://youtu.be/WmFRlpd1GTM?t=?m?s) CLOSURE AND FOR LOOPS
 - https://lambdaschool.com/closure-and-for-loops
 - https://lambdaschool.com/javascript-closures-explained
