@@ -15,7 +15,7 @@ function areSameLength(str1, str2) {
   //otherwise return false
   if ( str1.length() === str2.length() ) {
     return true;
-  } else { return false; };
+  } else { return false; }
 }
 
 function areEqual(x, y) {
