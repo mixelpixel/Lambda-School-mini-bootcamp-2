@@ -70,6 +70,9 @@ function getRemainder(x, y) {
 function isEven(num) {
   //return true if num is even
   //otherwise return false
+  if ( num % 2 === 0 ) {
+    return true;
+  } else { return fale; }
 }
 
 function isOdd(num) {
