@@ -2,6 +2,7 @@
 
 function multiplyByTen(num) {
   //return num after multiplying it by ten
+  return num * 10;
 }
 
 function subtractFive(num) {
