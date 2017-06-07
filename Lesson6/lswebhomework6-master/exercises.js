@@ -59,6 +59,7 @@ function divide(x, y) {
 
 function multiply(x, y) {
   //multiply x by y and return the value
+  return x * y;
 }
 
 function getRemainder(x, y) {
