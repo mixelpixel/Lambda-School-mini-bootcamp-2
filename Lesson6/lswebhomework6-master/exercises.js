@@ -54,6 +54,7 @@ function subtract(x, y) {
 
 function divide(x, y) {
   //divide x by y and return the value
+  return x / y;
 }
 
 function multiply(x, y) {
