@@ -130,6 +130,7 @@ function addExclamationPoint(str) {
 function combineNames(firstName, lastName) {
   //return firstName and lastName combined as one string and separated by a space.
   //'Lambda', 'School' -> 'Lambda School'
+  return firstName + ' ' + lastName;
 }
 
 function getGreeting(name) {
