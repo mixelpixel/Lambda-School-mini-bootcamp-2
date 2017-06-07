@@ -16,6 +16,7 @@ for (var i = 0; i < 100; i++) {
   }
 };
 ```
+
 ## [@6m8s](https://youtu.be/WmFRlpd1GTM?t=6m8s) FUNCTIONS
 - examples:
   - `alert('Hello');` loads an alert window
@@ -53,7 +54,7 @@ for (var i = 0; i < 100; i++) {
   };
   ```
 
-## [@14m2s](https://youtu.be/WmFRlpd1GTM?t=14m2s) ARGUMENTS:
+## [@14m2s](https://youtu.be/WmFRlpd1GTM?t=14m2s) ARGUMENTS
 - `funcName(argumemt1, argument2, argument3...);`
 - the actual values passed into the function parameters when the function is invoked, e.g.
   ```js
@@ -72,10 +73,27 @@ for (var i = 0; i < 100; i++) {
   saySomething('Something amazing!'); // <--- 'Something amazing' is the argument passed in to the function
   ```
 
-- HOISTING: https://lambdaschool.com/javascript-hoisting-explained
-- SCOPE:
-- HOMEWORK: install node and npm (already done)
+## [@16m42s](https://youtu.be/WmFRlpd1GTM?t=16m42s) HOISTING
+- https://lambdaschool.com/javascript-hoisting-explained
+- JavaScript will scan the script prior to compiling for runtime. First it will look for functions (and other variables) before looking for function calls, so you can put function calls in the script prior to the actual function.
 
-- Closure and For Loops: https://lambdaschool.com/closure-and-for-loops
 
-- Closures: https://lambdaschool.com/javascript-closures-explained
+## [@22m48s](https://youtu.be/WmFRlpd1GTM?t=22m48s) SCOPE
+-
+  ```js
+  var sayHello = function() = {
+    var greeting = 'hello'; // <--- 'greeting' ONLY available within the SCOPE of the sayHello function
+    alert(alert);
+  };
+
+  sayHello(); // <--- alerts with 'hello'
+  console.log(greeting); // <--- scope out of range error
+
+  ```
+
+## [@?m?s](https://youtu.be/WmFRlpd1GTM?t=?m?s) HOMEWORK
+- install node and npm (already done)
+
+## [@?m?s](https://youtu.be/WmFRlpd1GTM?t=?m?s) CLOSURE AND FOR LOOPS
+- https://lambdaschool.com/closure-and-for-loops
+- https://lambdaschool.com/javascript-closures-explained
