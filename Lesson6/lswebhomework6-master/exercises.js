@@ -72,7 +72,7 @@ function isEven(num) {
   //otherwise return false
   if ( num % 2 === 0 ) {
     return true;
-  } else { return fale; }
+  } else { return false; }
 }
 
 function isOdd(num) {
