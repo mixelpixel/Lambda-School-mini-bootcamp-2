@@ -101,7 +101,9 @@ function square(num) {
 function cube(num) {
   //cube num and return the new value
   // version 1
-  return num * num * num;
+  // return num * num * num;
+  // version 2
+  return Math.pow(num, 3);
 }
 
 function raiseToPower(num, exponent) {
