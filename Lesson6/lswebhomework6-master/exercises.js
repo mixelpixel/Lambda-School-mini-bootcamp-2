@@ -92,8 +92,10 @@ function square(num) {
   //square num and return the new value
   // version 1
   // return num * num;
-  //version 2
-  return num ** 2;
+  // version 2: FAILS
+  // return num ** 2;
+  // version 3
+  return Math.pow(num, 2);
 }
 
 function cube(num) {
