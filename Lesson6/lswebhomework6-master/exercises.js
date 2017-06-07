@@ -118,6 +118,7 @@ function roundNumber(num) {
 
 function roundUp(num) {
   //round num up and return it
+  return Math.roundUp(num);
 }
 
 function addExclamationPoint(str) {
