@@ -148,6 +148,7 @@ function getRectangleArea(length, width) {
 
 function getTriangleArea(base, height) {
   //return the area of the triangle by using base and height
+  return (base * height) / 2.0;
 }
 
 function getCircleArea(radius) {
