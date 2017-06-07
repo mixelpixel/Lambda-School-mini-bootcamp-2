@@ -29,6 +29,9 @@ function areEqual(x, y) {
 function lessThanNinety(num) {
   //return true if num is less than ninety
   //otherwise return false
+  if ( num < 90 ) {
+    return true;
+  }else { return false; }
 }
 
 function greaterThanFifty(num) {
