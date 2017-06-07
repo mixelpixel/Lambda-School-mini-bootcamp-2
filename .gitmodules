@@ -7,3 +7,6 @@
 [submodule "lswebhomework5"]
 	path = Lesson5/lswebhomework5
 	url = https://github.com/mixelpixel/lswebhomework5.git
+[submodule "Lesson6/lswebhomework6"]
+	path = Lesson6/lswebhomework6
+	url = https://github.com/mixelpixel/lswebhomework6.git
