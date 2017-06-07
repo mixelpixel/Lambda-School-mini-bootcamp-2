@@ -100,6 +100,8 @@ function square(num) {
 
 function cube(num) {
   //cube num and return the new value
+  // version 1
+  return num * num * num;
 }
 
 function raiseToPower(num, exponent) {
