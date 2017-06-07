@@ -78,9 +78,11 @@ function isEven(num) {
 function isOdd(num) {
   //return true if num is false
   //otherwise return false
+  // version 1
   // if ( num % 2 !== 0 ) {
   //   return true;
   // } else { return false; }
+  // version 2
   if ( num % 2 === 0) {
     return false;
   } else { return true; }
