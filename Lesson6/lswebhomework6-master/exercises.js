@@ -79,8 +79,8 @@ function isOdd(num) {
   //return true if num is false
   //otherwise return false
   if ( num % 2 !== 0 ) {
-    return false;
-  } else { return true; }
+    return true;
+  } else { return false; }
 }
 
 function square(num) {
