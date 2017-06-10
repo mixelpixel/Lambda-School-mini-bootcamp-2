@@ -243,7 +243,7 @@
 ## **Arrays, Objects, & Methods.**
 1. Mini Bootcamp Lesson 7:
  - [LESSON 7](https://youtu.be/CDg9qtuGNAo)
- - examples, notes...
+ - [Lesson 7 Notes](Lesson7)
 2. Homework assignment:
  - [](https://github.com/austenallred/lswebhomeworky)
  - [Completed homework]()
