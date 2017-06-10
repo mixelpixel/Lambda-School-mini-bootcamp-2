@@ -22,16 +22,12 @@
 - BRACKET SYNTAX
   - i.e. object['KEY'] returns the corresponding Key's VALUE
   - e.g. person['firstName'] returns the value "Bobby"
-
 - ADDING KEYS
-
 - REMOVING KEYS
-
 - CHECKING FOR KEYS
   - True or False return
   - i.e ['keyName'] in object
   - e.g. ['shoeSize'] in person
-
 - VALUE TYPES: Strings, Integers, Booleans, etc.
 
 ### Methods
@@ -51,9 +47,30 @@
 - Just a list of stuff, numbers, strings, objects, etc.
 - Flexible data type
 - a collection you iterate over and/or store values.
+```js
+var anArray = [0, 1, 2, "Bob", 4, 5, 6, 7];
+```
 
+- INDEX of ELEMENTS: starts at 0
+  - anArray[0] = 0
+  - anArray[3] = "Bob"
+  - anArray[99] = undefined
 
+- Functional programming approach: map
 
-# Repl.it
+```js
+anArray.map( function(item) {
+  return(item * 10);
+});
+```
+
+### Repl.it
 - like a scratchpad for code examples
 - like CodePen or JSFiddle, etc.
+
+### Programming styles
+- Object Oriented Programming
+  - Objects store everything
+  - Methods called on object
+- Functional Programming
+- Hybrid approach
