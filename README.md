@@ -245,7 +245,7 @@
  - [LESSON 7](https://youtu.be/CDg9qtuGNAo)
  - [Lesson 7 Notes](Lesson7)
 2. Homework assignment:
- - [](https://github.com/austenallred/lswebhomeworky)
+ - [](https://github.com/austenallred/lswebhomework7)
  - [Completed homework]()
 ***
 # fin.
