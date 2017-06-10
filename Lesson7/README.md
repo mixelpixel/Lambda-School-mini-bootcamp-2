@@ -64,6 +64,18 @@ anArray.map( function(item) {
 });
 ```
 
+- For Loop over array (Iterative approach)
+```js
+
+for (i = 0; i < anArray.length; i++) {
+  // do something
+  anArray[i]
+}
+```
+
+- Add Elements to an array with .push or []method or .length
+- Remove Elements in an array .pop
+
 ### Repl.it
 - like a scratchpad for code examples
 - like CodePen or JSFiddle, etc.
