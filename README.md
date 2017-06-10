@@ -240,11 +240,12 @@
  - [Completed homework: GitHub]()
 
 ### Friday, June 9, 2017, Lecture 7
+## **Arrays, Objects, & Methods.**
 1. Mini Bootcamp Lesson 7:
- - [LESSON 7]()
+ - [LESSON 7](https://youtu.be/CDg9qtuGNAo)
  - examples, notes...
 2. Homework assignment:
- - []()
+ - [](https://github.com/austenallred/lswebhomeworky)
  - [Completed homework]()
 ***
 # fin.
