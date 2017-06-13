@@ -245,7 +245,7 @@
  - [LESSON 7](https://youtu.be/CDg9qtuGNAo)
  - [Lesson 7 Notes](Lesson7)
 2. Homework assignment:
- - [](https://github.com/austenallred/lswebhomework7)
+ - [npm tests, Feynman descriptions](https://github.com/austenallred/lswebhomework7)
  - [Completed homework](https://github.com/mixelpixel/lswebhomework7/tree/master)
  ***
 # Week 5 - ADVANCED JAVASCRIPT
@@ -255,7 +255,7 @@
 - [LESSON 8](https://youtu.be/ffc6Le_UBQI)
 - [Lesson 8 notes](Lesson8)
 2. Homework assignment:
-- [npm tests, etc.](https://github.com/austenallred/lswebhomework8)
+- [Callbacks](https://github.com/SunJieMing/lswebhomework8)
 - [Completed homework: GitHub]()
 ***
 # fin.
