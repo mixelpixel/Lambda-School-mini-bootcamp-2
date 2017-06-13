@@ -247,5 +247,15 @@
 2. Homework assignment:
  - [](https://github.com/austenallred/lswebhomework7)
  - [Completed homework]()
+ ***
+# Week 5 - INTERMEDIATE JAVASCRIPT
+## **""**  
+### Monday, June 12, 2017, Lecture 8
+1. Mini Bootcamp Lesson 8: ...
+- [LESSON 8](...)
+- [Lesson 8 notes](Lesson8)
+2. Homework assignment:
+- [npm tests, etc.](https://github.com/austenallred/lswebhomework8)
+- [Completed homework: GitHub]()
 ***
 # fin.
