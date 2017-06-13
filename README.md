@@ -246,13 +246,13 @@
  - [Lesson 7 Notes](Lesson7)
 2. Homework assignment:
  - [](https://github.com/austenallred/lswebhomework7)
- - [Completed homework]()
+ - [Completed homework](https://github.com/mixelpixel/lswebhomework7/tree/master)
  ***
-# Week 5 - INTERMEDIATE JAVASCRIPT
-## **""**  
+# Week 5 - ADVANCED JAVASCRIPT
+## **"Callback Functions"**  
 ### Monday, June 12, 2017, Lecture 8
-1. Mini Bootcamp Lesson 8: ...
-- [LESSON 8](...)
+1. Mini Bootcamp Lesson 8:
+- [LESSON 8](https://youtu.be/ffc6Le_UBQI)
 - [Lesson 8 notes](Lesson8)
 2. Homework assignment:
 - [npm tests, etc.](https://github.com/austenallred/lswebhomework8)
