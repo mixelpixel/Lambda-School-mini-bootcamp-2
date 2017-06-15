@@ -99,10 +99,10 @@
 
 ## [@29m50s](https://youtu.be/ffc6Le_UBQI?t=29m50s)
 - Closures
-- Callbacks are functions which are passed into functions.
-- Higher order functions: a function that returns a function.
+- Callbacks are where you pass a function into another functions.
+- Higher order functions: functions that return a function.
   ```js
-  function foo() {
+  function foo() { // <--- foo(); returns an anonymous function
     return function() {
       console.log('hi');
     };
