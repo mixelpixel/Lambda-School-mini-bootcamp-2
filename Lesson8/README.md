@@ -153,7 +153,7 @@
   function foo() {
     function bar() {
       function baz() {
-        var topLevelVar = 'hello';
+        var topLevelVar = 'hello'; // <--- Scope OK√
         console.log(topLevelVar);
       }
       baz();
@@ -166,9 +166,9 @@
   ```js
   function foo() {
     function bar() {
-      var topLevelVar = 'hello';
+      var topLevelVar = 'hello';  // <--- Scope OK√
       function baz() {
-        console.log(topLevelVar);
+        console.log(topLevelVar); // console call sees var in OUTER function
       }
       baz();
     }
@@ -179,10 +179,10 @@
 - works:
   ```js
   function foo() {
-    var topLevelVar = 'hello';
+    var topLevelVar = 'hello'; // <--- Scope OK√
     function bar() {
       function baz() {
-        console.log(topLevelVar);
+        console.log(topLevelVar); // console call sees var in OUTER function
       }
       baz();
     }
