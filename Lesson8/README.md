@@ -132,6 +132,7 @@
 
   foo()(); // <--- returns 'hi'
   ```
+- foo() returns the function in it's UN-RUN state, but the second parenthetical call RUNS the function which was returned from foo(), hence foo()();
 - Closure and scope
   ```js
   function foo() {
@@ -143,4 +144,78 @@
 
   var message = 'sup'   // <--- ignored
   foo()();              // <--- returns 'hi'
+  ```
+
+## [@38m35s](https://youtu.be/ffc6Le_UBQI?t=38m35s)
+- Scope
+- this works:
+  ```js
+  function foo() {
+    function bar() {
+      function baz() {
+        var topLevelVar = 'hello';
+        console.log(topLevelVar);
+      }
+      baz();
+    }
+    bar();
+  }
+  foo();
+  ```
+- works:
+  ```js
+  function foo() {
+    function bar() {
+      var topLevelVar = 'hello';
+      function baz() {
+        console.log(topLevelVar);
+      }
+      baz();
+    }
+    bar();
+  }
+  foo();
+  ```
+- works:
+  ```js
+  function foo() {
+    var topLevelVar = 'hello';
+    function bar() {
+      function baz() {
+        console.log(topLevelVar);
+      }
+      baz();
+    }
+    bar();
+  }
+  foo();
+  ```
+- from within a function, it can reach out and see everything within the functions it is contained withing
+- sibling functions cannot see into each other, e.g. bar and baz are on the same level:
+  ```js
+  function foo() {
+    function bar() {
+      var topLevelVar = 'hello';
+    }
+    function baz() {
+      console.log(topLevelVar); // <--- ERROR
+    }
+    bar();
+    baz();
+  }
+  foo(); // <--- ERROR
+  ```
+- Also:
+  ```js
+  function foo() {
+    function bar() {
+      var topLevelVar = 'hello'; // <--- not available outside bar()
+    }
+    function baz() {
+    }
+    bar();
+    baz();
+    console.log(topLevelVar); // <--- ERROR
+  }
+  foo(); // <--- ERROR
   ```
