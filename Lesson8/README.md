@@ -36,7 +36,7 @@
   });
   ```
 - "anonymous" functions: simply, they don't have a name
-- essentially, this is a different pattern, but the result is the same thing as if we made a named function declaration like so:
+- essentially, this is a different code pattern, but the result is the same thing as if we made a named function declaration like so:
   ```js
   var cb = function() {
     console.log('hi');
@@ -44,5 +44,51 @@
 
   cb();
   ```
+- Functions can be in arrays, on objects, pass them in to functions, even return the from functions
+- Closure... returning an anonymous functions... "higher order functions"
 
 ## [@12m58s](https://youtu.be/ffc6Le_UBQI?t=12m58s)
+- functional programming in JavaScript
+  ```js
+  // [1, 2, 3] --> 6
+  function sum(numbers, cb) { // <--- cb often takes the place of a return statement
+    return numbers.reduce(function(accumulator, value) {
+      // console.log(accumulator, value);
+      return accumulator + value;
+    });
+  }
+
+  console.log(sum([1, 2, 3]));
+  ```
+- Using the cb:
+  ```js
+  // [1, 2, 3] --> 6
+  function sum(numbers, cb) {
+    var result = numbers.reduce(function(accumulator, value) {
+      return accumulator + value;
+    });
+    cb(result);
+  }
+
+  sum([1, 2, 3], function(result) {
+      console.log(result);
+  });
+  ```
+- synchronous vs. asynchronous code...
+
+## [@21m25s](https://youtu.be/ffc6Le_UBQI?t=21m25s)
+- return the last item in an array
+- synchronous code
+  ```js
+  // [1, 2, 3, 4, 5] --> 5
+  function last(anArray, cb) {
+    cb(anArray[anArray.length - 1]);
+  }
+
+  last([1, 2, 3, 4, 5], function(lastItem){
+    console.log(lastItem);
+  });
+  ```
+## [@24m45s](https://youtu.be/ffc6Le_UBQI?t=24m45s)
+- http://underscorejs.org
+- 
