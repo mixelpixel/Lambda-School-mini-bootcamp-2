@@ -256,6 +256,6 @@
 - [Lesson 8 notes](Lesson8)
 2. Homework assignment:
 - [Callbacks](https://github.com/SunJieMing/lswebhomework8)
-- [Completed homework: GitHub]()
+- [Completed homework: GitHub](https://github.com/mixelpixel/lswebhomework8/tree/master)
 ***
 # fin.
