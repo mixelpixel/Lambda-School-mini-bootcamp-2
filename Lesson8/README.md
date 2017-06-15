@@ -89,6 +89,7 @@
     console.log(lastItem);
   });
   ```
+
 ## [@24m45s](https://youtu.be/ffc6Le_UBQI?t=24m45s)
 - http://underscorejs.org
 
@@ -129,7 +130,7 @@
     };
   }
 
-  foo()(); // <--- invoked twice!
+  foo()(); // <--- returns 'hi'
   ```
 - Closure and scope
   ```js
@@ -141,5 +142,5 @@
   }
 
   var message = 'sup'   // <--- ignored
-  foo()();              // <--- returns 'hi' twice
+  foo()();              // <--- returns 'hi'
   ```
