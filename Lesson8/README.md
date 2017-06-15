@@ -118,3 +118,4 @@
     console.log('hi');
   };
   ```
+- Functional design principles stem from closures, e.g. decorators.
