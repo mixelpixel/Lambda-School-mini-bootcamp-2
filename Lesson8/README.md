@@ -145,6 +145,7 @@
   var message = 'sup'   // <--- ignored
   foo()();              // <--- returns 'hi'
   ```
+
 ### [@43m15s](https://youtu.be/ffc6Le_UBQI?t=43m15s)
 - MORE EXPLANATION OF Higher Order Function Syntax:
   ```js
@@ -156,7 +157,7 @@
 
   foo()();
   ```
-  - the `foo()` part returns the "pre-run" inner function and the following `();` returns the inner function after being run, e.g.
+- the `foo()` part returns the "pre-run" inner function and the following `();` returns the inner function after being run, e.g.
   ```js
   function foo() {
     return function() {
@@ -255,15 +256,15 @@
   - A BASE CASE is used to exit or terminate the loop.
   - Iteration with a function. Anything that can be done with recursion can also be done with a for or while loop. While loops are generally more efficient.
   - Recursion adds frames to the call stack, can be an expensive process, but can be simpler than a for/while loop with complex solutions. E.g. searching a tree, or a graph data structure, linked list or searching and sorting algorithms, etc.
-- Factorial!
-  - factorial 5 (5!) is 5 * 4 * 3 * 2 * 1
+- e.g. Factorial!
+- factorial 5, or, (5!) is `5 * 4 * 3 * 2 * 1 = 120`
   ```js
-  function factorial() {
+  function factorial(n) {
     if (n <= 1 ) return 1;       // <--- BASE CASE
     return n * factorial(n - 1); // <--- Recursive call to factorial()
   }
 
-  console.log(factorial(5)); // <--- 120
+  console.log(factorial(5));        // <--- 120
   ```
 
 ## [@54m45s](https://youtu.be/ffc6Le_UBQI?t=54m45s) DEBUGGING
