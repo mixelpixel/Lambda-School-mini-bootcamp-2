@@ -264,7 +264,7 @@
     return n * factorial(n - 1); // <--- Recursive call to factorial()
   }
 
-  console.log(factorial(5));        // <--- 120
+  console.log(factorial(5));     // <--- 120
   ```
 
 ## [@54m45s](https://youtu.be/ffc6Le_UBQI?t=54m45s) DEBUGGING
