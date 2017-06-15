@@ -241,5 +241,35 @@
   }
   foo(); // <--- ERROR
   ```
+
+## [@48m45s](https://youtu.be/ffc6Le_UBQI?t=48m45s)
+- Recursion
+- a snake eating it's tail...
+- a function can call itself from inside of itself...
+  ```js
+  function foo() {
+    foo();
+  }
+  ```
+  - This example will create an infinite loop
+  - A BASE CASE is used to exit or terminate the loop.
+  - Iteration with a function. Anything that can be done with recursion can also be done with a for or while loop. While loops are generally more efficient.
+  - Recursion adds frames to the call stack, can be an expensive process, but can be simpler than a for/while loop with complex solutions. E.g. searching a tree, or a graph data structure, linked list or searching and sorting algorithms, etc.
+- Factorial!
+  - factorial 5 (5!) is 5 * 4 * 3 * 2 * 1
+  ```js
+  function factorial() {
+    if (n <= 1 ) return 1;
+    return n * factorial(n - 1);
+  }
+
+  console.log(factorial(5));
+  ```
+
+## [@54m45s](https://youtu.be/ffc6Le_UBQI?t=54m45s) DEBUGGING
+- use print statements throughout the code.
+- In Chrome the keyword `debugger;` will pause execution
+- http://pythontutor.com to visualize code
+
 ***
 fin
