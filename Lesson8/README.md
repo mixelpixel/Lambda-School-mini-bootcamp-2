@@ -91,4 +91,11 @@
   ```
 ## [@24m45s](https://youtu.be/ffc6Le_UBQI?t=24m45s)
 - http://underscorejs.org
-- 
+
+## [@26m40s](https://youtu.be/ffc6Le_UBQI?t=26m40s)
+- Asynchronous requests (JQuery, Axios, etc.)
+- the spot where the process is gonna come back and revisit the code at a later point in time.\
+- Things we're glossing over: "this" keyword, constructors, hoisting, ES6, recursion, closure, etc.
+
+## [@29m50s](https://youtu.be/ffc6Le_UBQI?t=29m50s)
+- Closures
