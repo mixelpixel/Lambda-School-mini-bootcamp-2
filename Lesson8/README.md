@@ -145,6 +145,28 @@
   var message = 'sup'   // <--- ignored
   foo()();              // <--- returns 'hi'
   ```
+### [@43m15s](https://youtu.be/ffc6Le_UBQI?t=43m15s)
+- MORE EXPLANATION OF Higher Order Function Syntax:
+  ```js
+  function foo() {
+    return function() {
+      console.log('hi');
+    };
+  }
+
+  foo()();
+  ```
+  - the `foo()` part returns the "pre-run" inner function and the following `();` returns the inner function after being run, e.g.
+  ```js
+  function foo() {
+    return function() {
+      console.log('hi');
+    };
+  }
+
+  console.log(foo());
+  console.log(foo()());
+  ```
 
 ## [@38m35s](https://youtu.be/ffc6Le_UBQI?t=38m35s)
 - Scope
@@ -219,3 +241,5 @@
   }
   foo(); // <--- ERROR
   ```
+***
+fin
