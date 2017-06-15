@@ -259,17 +259,21 @@
   - factorial 5 (5!) is 5 * 4 * 3 * 2 * 1
   ```js
   function factorial() {
-    if (n <= 1 ) return 1;
-    return n * factorial(n - 1);
+    if (n <= 1 ) return 1;       // <--- BASE CASE
+    return n * factorial(n - 1); // <--- Recursive call to factorial()
   }
 
-  console.log(factorial(5));
+  console.log(factorial(5)); // <--- 120
   ```
 
 ## [@54m45s](https://youtu.be/ffc6Le_UBQI?t=54m45s) DEBUGGING
 - use print statements throughout the code.
 - In Chrome the keyword `debugger;` will pause execution
 - http://pythontutor.com to visualize code
+
+## [@56m45s](https://youtu.be/ffc6Le_UBQI?t=56m45s) Homework
+- Callback
+- https://github.com/SunJieMing/lswebhomework8
 
 ***
 fin
