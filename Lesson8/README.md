@@ -134,12 +134,12 @@
 - Closure and scope
 ```js
 function foo() {
-  var message = 'hi';
+  var message = 'hi'; // <--- function retains access to it's original scope
   return function() {
     console.log(message);
   };
 }
 
-var message = 'sup' // <--- function remembers its scope
-foo()();            // <--- returns 'hi' twice
+var message = 'sup'   // <--- ignored
+foo()();              // <--- returns 'hi' twice
 ```
