@@ -119,3 +119,27 @@
   };
   ```
 - Functional design principles stem from closures, e.g. decorators.
+
+## [@33m27s](https://youtu.be/ffc6Le_UBQI?t=33m27s)
+- Invoking the return:
+  ```js
+  function foo() {
+    return function() {
+      console.log('hi');
+    };
+  }
+
+  foo()(); // <--- invoked twice!
+  ```
+- Closure and scope
+```js
+function foo() {
+  var message = 'hi';
+  return function() {
+    console.log(message);
+  };
+}
+
+var message = 'sup' // <--- function remembers its scope
+foo()();            // <--- returns 'hi' twice
+```
