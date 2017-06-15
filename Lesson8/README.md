@@ -101,7 +101,7 @@
 ## [@29m50s](https://youtu.be/ffc6Le_UBQI?t=29m50s)
 - Closures
 - Callbacks are where you pass a function into another functions.
-- Higher order functions: functions that return a function.
+- **Higher order functions**: functions that return an anonymous function.
   ```js
   function foo() { // <--- foo(); returns an anonymous function
     return function() {
@@ -135,7 +135,7 @@
 - Closure and scope
   ```js
   function foo() {
-    var message = 'hi'; // <--- function retains access to it's original scope
+    var message = 'hi'; // <--- function retains access to it's original 'closure' scope
     return function() {
       console.log(message);
     };
