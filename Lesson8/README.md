@@ -132,14 +132,14 @@
   foo()(); // <--- invoked twice!
   ```
 - Closure and scope
-```js
-function foo() {
-  var message = 'hi'; // <--- function retains access to it's original scope
-  return function() {
-    console.log(message);
-  };
-}
+  ```js
+  function foo() {
+    var message = 'hi'; // <--- function retains access to it's original scope
+    return function() {
+      console.log(message);
+    };
+  }
 
-var message = 'sup'   // <--- ignored
-foo()();              // <--- returns 'hi' twice
-```
+  var message = 'sup'   // <--- ignored
+  foo()();              // <--- returns 'hi' twice
+  ```
