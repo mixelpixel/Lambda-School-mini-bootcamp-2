@@ -192,7 +192,6 @@
 
   <details><summary>Click here for a full screen capture</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson2/homework/homework_screencapture.png"></details>
 
-
 ***
 # Week 2 - INTRO TO JAVASCRIPT
 ## **"An in-depth introduction to the language of the web."**  
