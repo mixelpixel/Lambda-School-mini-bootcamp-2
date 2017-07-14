@@ -6,7 +6,7 @@
 
 <details><summary>Course Resources</summary><p>
 
-- https://lambdaschool.com/mini-bootcamp/  
+- https://lambdaschool.com/mini-bootcamp/
 - [Slack channel](https://lambdaschool.slack.com)
 - [Lesson archive](https://lambdaschool.com/mini-bootcamp/archive)
 ***
@@ -25,7 +25,7 @@
 
 - **Web Browsers:**
   - ["How browsers work internally" by Tali Garsiel (~30min)](https://vimeo.com/44182484)
-  - ["How Browsers Work: Behind the scenes of modern web browsers" by By Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Resources)
+  - ["How Browsers Work: Behind the scenes of modern web browsers" by By Tali Garsiel and Paul Irish](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - **HTML 5:**
   - [HTML5 Tutorial & SEO considerations](http://www.html-5-tutorial.com/)
 - **`git` & GitHub tutorials:**
@@ -38,7 +38,7 @@
     - put the `<meta charset = 'utf-8'>` head tag FIRST!
   - [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
     - Encoding vs. Unicode "Code Points":
-    > _"Unicode first and foremost defines a table of code points for characters. That's a fancy way of saying "65 stands for A, 66 stands for B and 9,731 stands for ☃" (seriously, it does). How these code points are actually encoded into bits is a different topic." ... "Characters are referred to by their "Unicode code point". Unicode code points are written in hexadecimal (to keep the numbers shorter), preceded by a "U+" (that's just what they do, it has no other meaning than "this is a Unicode code point")."_  
+    > _"Unicode first and foremost defines a table of code points for characters. That's a fancy way of saying "65 stands for A, 66 stands for B and 9,731 stands for ☃" (seriously, it does). How these code points are actually encoded into bits is a different topic." ... "Characters are referred to by their "Unicode code point". Unicode code points are written in hexadecimal (to keep the numbers shorter), preceded by a "U+" (that's just what they do, it has no other meaning than "this is a Unicode code point")."_
 
   - [The Great Escapism (Or: What You Need To Know To Work With Text Within Text)](http://kunststube.net/escapism/)
   - [Handling Unicode Front To Back In A Web App](http://kunststube.net/frontback/)
@@ -46,15 +46,15 @@
 </p></details>
 
 # Week 1 - [TEXT EDITORS](https://atom.io), [HTML AND CSS](https://www.w3.org/standards/webdesign/htmlcss)
-## **"The basics of code, how it works on the web, and what websites are made of."**  
+## **"The basics of code, how it works on the web, and what websites are made of."**
 ##### In addition to [w3c](https://www.w3.org) for CSS & HTML, for HTML, see also: https://whatwg.org
 ##### HTTP is per [w3c](https://www.w3.org) & http://ietf.org
-### Monday, May 15, 2017, Lecture 1:  
+### Monday, May 15, 2017, Lecture 1:
 1. Mini Bootcamp Lesson 1: HTML & CSS
-  - [LESSON 1: HTML & CSS](https://youtu.be/nLs9I8MRbO0)  
+  - [LESSON 1: HTML & CSS](https://youtu.be/nLs9I8MRbO0)
   - [Lecture 1 example on CodePen.io: "Words"](https://codepen.io/mixelpix/pen/PmxXov)
   - [Lecture 1 example on CodePen.io: "divs"](https://codepen.io/mixelpix/pen/XRyoJg)
-    <details><summary>Lecture 1 notes</summary><ul>  
+    <details><summary>Lecture 1 notes</summary><ul>
       <li>
         <a href="https://youtu.be/nLs9I8MRbO0?t=12m">Lecture 1 starts@ ~12min</a><br>
         There's good information in the first twelve minutes, don't skip it.
@@ -163,30 +163,30 @@
       <li>CSS comments are between forward slash and star: /&#42; <i>comments go here</i> &#42;/ and they can span multiple lines as well.</li>
 
       <h2>Additional Notes</h2>
-      <li><a href="http://stackoverflow.com/a/31032477/5225057">HTML specs, percentage vs. height</a></li>  
+      <li><a href="http://stackoverflow.com/a/31032477/5225057">HTML specs, percentage vs. height</a></li>
       <li><a href="https://www.w3schools.com/tags/tag_meta.asp">HTML meta tags</a></li>
       <li><a href="https://www.computerhope.com/issues/ch001034.htm">How do I indent or tab text on my web page or in HTML?</a></li>
       <li><a href="http://www.theukwebdesigncompany.com/articles/entity-escape-characters.php">HTML Escape Characters: Complete List</a></li>
       <li><b>I cannot recommend strongly enough: DO NOT TAKE NOTES IN HTML!!!!!! XD</b></li>
-    </ul></details>  
+    </ul></details>
 
 2. Homework assignment:
-  - [Replicate the images in HTML and CSS code.](https://github.com/SunJieMing/LS-Web-Intro-I)  
+  - [Replicate the images in HTML and CSS code.](https://github.com/SunJieMing/LS-Web-Intro-I)
     1. [Homework assignment 1 on github](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework1)
-      - [Homework assignment 1 on CodePen](https://codepen.io/mixelpix/pen/gWQZby)<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework1/homework1.png"></details>  
+      - [Homework assignment 1 on CodePen](https://codepen.io/mixelpix/pen/gWQZby)<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework1/homework1.png"></details>
     2. [Homework assignment 2 on github](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework2)
-      - [Homework assignment 2 on CodePen](https://codepen.io/mixelpix/pen/NjEeqP)<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework2/homework2.png"></details>  
+      - [Homework assignment 2 on CodePen](https://codepen.io/mixelpix/pen/NjEeqP)<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework2/homework2.png"></details>
     3. [Homework assignment 3 on github](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson1/homework3)
-      - [Homework assignment 3 on CodePen](https://codepen.io/mixelpix/pen/ZKmVGe)<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework3/homework3.png"></details>  
+      - [Homework assignment 3 on CodePen](https://codepen.io/mixelpix/pen/ZKmVGe)<details><summary>Click here for the image</summary><img src="https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/blob/master/Lesson1/homework3/homework3.png"></details>
 
-### Friday, May 19, 2017, Lecture 2:  
+### Friday, May 19, 2017, Lecture 2:
 1. Mini Bootcamp Lesson 2: Responsive Web Design
   - [LESSON 2: Responsive Web Design](https://youtu.be/oXziWoSD8vQ)
   - [Lesson 2 lecture example on CodePen: "Boxes and divs"](https://codepen.io/mixelpix/pen/zwMMVz)
   - [Lecture 2 notes](Lesson2)
 
 2. Homework assignment:
-  - [Replicate this web page](http://blackrockdigital.github.io/startbootstrap-clean-blog/post.html)  
+  - [Replicate this web page](http://blackrockdigital.github.io/startbootstrap-clean-blog/post.html)
   - [Completed homework on GitHub](https://github.com/mixelpixel/Lambda-School-mini-bootcamp-2/tree/master/Lesson2/homework/)
   - [Completed homework on CodePen](https://codepen.io/mixelpix/pen/bWOKMo)
 
@@ -194,7 +194,7 @@
 
 ***
 # Week 2 - INTRO TO JAVASCRIPT
-## **"An in-depth introduction to the language of the web."**  
+## **"An in-depth introduction to the language of the web."**
 ##### JavaScript maintained by [Mozilla](https://developer.mozilla.org/en/docs/Web/JavaScript) & [ECMA](https://www.ecma-international.org/ecma-262/7.0/#sec-property-accessors-runtime-semantics-evaluation)
 ##### [`git`](https://git-scm.com/downloads), [GitHub](https://github.com) & [Atom](https://atom.io)
 - [JavaScript and ECMA Specification](http://www.w3resource.com/javascript/introduction/ECMA-and-javascript.php)
@@ -206,7 +206,7 @@
 2. Homework assignment:
  - [Working with GitHub](https://github.com/austenallred/lswebhomework3)
  - [Completed homework](https://github.com/mixelpixel/lswebhomework3/tree/master)
- - <details><summary>Click here for the modified Tweet</summary><img src="https://github.com/mixelpixel/lswebhomework3/blob/master/Inspect_Element_mods.png"></details>  
+ - <details><summary>Click here for the modified Tweet</summary><img src="https://github.com/mixelpixel/lswebhomework3/blob/master/Inspect_Element_mods.png"></details>
 
 ### Friday, May 26, 2017, Lecture 4
 1. Mini Bootcamp Lesson 4: JavaScript and the DOM (Domain Object Model)
@@ -218,7 +218,7 @@
  - [Completed homework: CodePen](https://codepen.io/mixelpix/pen/LyKGrZ)
 ***
 # Week 3 - INTRO TO JAVASCRIPT
-## **"Arrays, objects, and Array/Object class methods."**  
+## **"Arrays, objects, and Array/Object class methods."**
 ### Friday, June 2, 2017, Lecture 5
 1. Mini Bootcamp Lesson 5: Statements, Variables, and For Loops from JavaScript
  - [LESSON 5](https://youtu.be/UwNMelsm28Y)
@@ -229,7 +229,7 @@
  - [Completed homework: CodePen](https://codepen.io/mixelpix/pen/NgWaMz)
 ***
 # Week 4 - INTERMEDIATE JAVASCRIPT
-## **"Prototype, this, closure, and callbacks."**  
+## **"Prototype, this, closure, and callbacks."**
 ### Monday, June 5, 2017, Lecture 6
 1. Mini Bootcamp Lesson 6: Functions, Parameters, Arguments
  - [LESSON 6](https://youtu.be/WmFRlpd1GTM)
@@ -248,7 +248,7 @@
  - [Completed homework](https://github.com/mixelpixel/lswebhomework7/tree/master)
  ***
 # Week 5 - ADVANCED JAVASCRIPT
-## **"Callback Functions"**  
+## **"Callback Functions"**
 ### Monday, June 12, 2017, Lecture 8
 1. Mini Bootcamp Lesson 8:
 - [LESSON 8](https://youtu.be/ffc6Le_UBQI)
